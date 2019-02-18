@@ -38,3 +38,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- about-me.md
