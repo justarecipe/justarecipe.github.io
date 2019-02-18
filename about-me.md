@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: About Me
 author: Chris
 categories: []
