@@ -28,3 +28,5 @@ fields:
   type: textarea
   hidden: false
   default: ''
+pages:
+- _posts/chicken.md
