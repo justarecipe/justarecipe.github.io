@@ -1,7 +1,7 @@
 ---
-label: main_posts
-hide_body: 
-is_partial: 
+label: primary_post
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
