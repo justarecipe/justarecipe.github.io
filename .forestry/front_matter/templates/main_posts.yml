@@ -38,5 +38,3 @@ fields:
   type: boolean
   hidden: false
   default: ''
-pages:
-- _posts/no-bake-peanut-butter-energy-balls.md
