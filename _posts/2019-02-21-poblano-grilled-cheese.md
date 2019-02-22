@@ -13,7 +13,7 @@ hidden: false
 date: 2019-02-21 12:19:56 -0500
 
 ---
-_Time: 45 minutes | makes 4 sandwiches_
+_Time: 45 minutes; Makes 4 sandwiches_
 
 * 2 poblanos, cut in half and deseeded
 * 8 slices of good sandwich bread
