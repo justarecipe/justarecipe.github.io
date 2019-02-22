@@ -8,7 +8,7 @@ categories:
 - sandwiches
 - peppers
 image: assets/images/USE03752.JPG
-featured: false
+featured: true
 hidden: false
 date: 2019-02-21 12:19:56 -0500
 
