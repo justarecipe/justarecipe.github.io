@@ -7,7 +7,7 @@ categories:
 - grilled cheese
 - sandwiches
 - peppers
-image: ''
+image: assets/images/USE03752.JPG
 featured: false
 hidden: false
 date: 2019-02-21 12:19:56 -0500
@@ -22,7 +22,7 @@ _Time: 45 minutes | makes 4 sandwiches_
 
 Roast the poblanos by placing them in the broiler on high for 6-7 minutes, checking periodically. Poblanos are done when the pepper's skin is blackened. Place the roasted poblanos in a plastic bag and seal, which will help to loosen the skins, for about 20 minutes.
 
-Once the poblanos have cooled to the touch, peel the skins off. Dice your poblanos so they're ready to be placed on the sandwich bread.
+Once the poblanos have cooled to the touch, peel off the skins. Dice your poblanos so they're ready to be placed on the sandwich bread.
 
 When the poblanos are almost done cooling, heat your griddle on medium. Place a small amount of butter on the heated griddle.
 
