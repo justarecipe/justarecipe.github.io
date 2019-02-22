@@ -1,8 +1,8 @@
 # Site
 name: "Just a Recipe"
-title: "Simply Recipe"
-description: "Just a Recipe"
-meta_description: "Only Recipes, no fluff!"
+title: "Just a Recipe"
+description: "No Stories, No Scrolling"
+meta_description: "Recipes without a story"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
