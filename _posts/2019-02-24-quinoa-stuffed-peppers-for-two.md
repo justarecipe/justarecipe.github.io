@@ -37,6 +37,6 @@ Spoon the filling into each bell pepper cavity. Place bell peppers on a baking s
 
 Top with salsa, sour cream or guacamole if desired.
 
-![Ingredients](../assets/images/USE03790.JPG)
+![](../assets/images/USE03790.JPG)
 
 _The recipe for these Quinoa Stuffed Peppers was inspired by_ [_Damn Delicious_](https://damndelicious.net/2013/06/03/quinoa-stuffed-bell-peppers/)_._
