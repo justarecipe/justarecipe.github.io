@@ -12,7 +12,7 @@ hidden: false
 date: 2019-02-22 04:53:46 +0000
 
 ---
-time: ? Makes 4 servings
+time: 50 minutes; Makes 4 servings
 
 * 1 lb chicken breast or thigh
 * 2 tablespoons olive oil
@@ -20,6 +20,8 @@ time: ? Makes 4 servings
 * 1/2 teaspoon garlic powder
 * 1/2 teaspoon onion powder
 * 1/2 teaspoon salt
+
+  FOR SAUCE
 * 8 ounces half & half
 * 4 ounces milk
 * 2 tablespoons all-purpose flour
