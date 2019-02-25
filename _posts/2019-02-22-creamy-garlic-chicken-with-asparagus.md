@@ -6,10 +6,10 @@ categories:
 - chicken
 - easy dinner
 - asparagus
-image: ''
+image: assets/images/USE03771.JPG
 featured: false
 hidden: false
-date: 2019-02-21 23:53:46 -0500
+date: 2019-02-22 04:53:46 +0000
 
 ---
 time: ? Makes 4 servings
@@ -19,7 +19,7 @@ time: ? Makes 4 servings
 * 1 teaspoon black pepper
 * 1/2 teaspoon garlic powder
 * 1/2 teaspoon onion powder
-* 1/2 teaspoon salt 
+* 1/2 teaspoon salt
 * 8 ounces half & half
 * 4 ounces milk
 * 2 tablespoons all-purpose flour
@@ -28,7 +28,7 @@ time: ? Makes 4 servings
 * 2/3 cup freshly grated Parmesan cheese
 * 1 teaspoon black pepper
 * 1/2 teaspoon salt
-* 5 cloves of garlic, minced 
+* 5 cloves of garlic, minced
 * 1 teaspoon olive oil
 * 1 pound fresh asparagus with the bottoms trimmed and cut into 3-inch strips
 
@@ -40,4 +40,4 @@ In a large mixing bowl, combine the half & half, milk, melted butter, flour, cru
 
 In the same skillet used to cook the chicken, add the minced garlic and olive oil. Cook over medium heat for 1 to 2 minutes and then pour in the sauce mixture. Heat the sauce for 3 minutes and bring to a boil, stirring continuously.
 
-Reduce heat to low and add asparagus and chicken to the skillet. Simmer until asparagus is tender, about 10 minutes, covered. 
+Reduce heat to low and add asparagus and chicken to the skillet. Simmer until asparagus is tender, about 10 minutes, covered.
