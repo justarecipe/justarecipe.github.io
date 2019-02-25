@@ -39,6 +39,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/quinoa-stuffed-peppers-for-two.md
 - _posts/2019-02-22-creamy-garlic-chicken-with-asparagus.md
 - _posts/2019-02-21-poblano-grilled-cheese.md
 - _posts/eggless-pumpkin-bread.md
