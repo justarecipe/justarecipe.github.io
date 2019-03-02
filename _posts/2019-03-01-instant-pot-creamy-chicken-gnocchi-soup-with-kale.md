@@ -14,6 +14,8 @@ hidden: false
 date: 2019-03-01 13:56:31 -0500
 
 ---
+Time: 1 hour; Makes 8 servings
+
 * 6 strips bacon
 * 1 tsp. olive oil
 * 1 large onion, diced
@@ -33,11 +35,11 @@ date: 2019-03-01 13:56:31 -0500
 * 1 cup whole milk (or half & half), warmed
 * 1 lb. gnocchi
 * 4 kale leaves
-* 1/2 cup Parmesan cheese, freshly grated 
+* 1/2 cup Parmesan cheese, freshly grated
 
 Heat oven to 400 degrees and line a baking sheet with foil. Lay bacon in a single layer on the sheet. Bake for 15 to 20 minutes until crispy. Crumble once cool to the touch.
 
-While the bacon is in the oven, turn the Instant Pot (IP) to Saute and heat olive oil for a few minutes. Add onion and stir. Add in minced garlic. Cook the onions until translucent and stir as needed. Pour in chicken broth and stir. Then add chicken, carrots, celery, basil, bay leaf, oregano, parsley, salt and pepper. 
+While the bacon is in the oven, turn the Instant Pot (IP) to Saute and heat olive oil for a few minutes. Add onion and stir. Add in minced garlic. Cook the onions until translucent and stir as needed. Pour in chicken broth and stir. Then add chicken, carrots, celery, basil, bay leaf, oregano, parsley, salt and pepper.
 
 Place the lid on the IP and make sure the float valve is set to closed. Use the Manual Setting on high pressure and set the timer for 10 minutes. When the timer beeps, allow the IP to sit for 10 minutes.
 
