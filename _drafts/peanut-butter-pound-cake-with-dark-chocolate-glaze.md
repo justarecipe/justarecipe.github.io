@@ -32,3 +32,8 @@ Ingredients for Dark Chocolate Glaze
 * 2 Tbsp. cocoa powder
 * 2 Tbsp. black cocoa powder
 * 2 tsp. vanilla extract
+* 3-4 fun size Butterfingers, crushed or chopped
+
+Heat oven to 350. Grease a 9 or 10-inch Bundt pan.
+
+ 
