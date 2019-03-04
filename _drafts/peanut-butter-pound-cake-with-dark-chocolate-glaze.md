@@ -13,7 +13,7 @@ hidden: false
 date: 2019-03-03 23:26:42 -0500
 
 ---
-Time: ? Makes 12-15 servings
+Time: 1 h 30 minutes; Makes 12-15 servings
 
 Ingredients for Pound Cake
 
@@ -31,6 +31,7 @@ Ingredients for Dark Chocolate Glaze
 * 1 1/2 cups powdered sugar
 * 2 Tbsp. cocoa powder
 * 2 Tbsp. black cocoa powder
+* 1/4 cup milk
 * 2 tsp. vanilla extract
 * 3-4 fun size Butterfingers, crushed or chopped
 
