@@ -35,18 +35,18 @@ Ingredients for Dark Chocolate Glaze
 * 2 tsp. vanilla extract
 * 3-4 fun size Butterfingers, crushed or chopped*
 
-Heat oven to 350. Grease a 9 or 10-inch Bundt pan with a baking spray like PAM Baking Made with Flour. 
+Heat oven to 350. Grease a 9 or 10-inch Bundt pan with a baking spray like PAM Baking Made with Flour and set aside.
 
 Cream butter and sugar until light and fluffy. Beat in eggs, one at a time, until just blended.
 
 Add vanilla and slowly beat in peanut butter.
 
-In a medium bowl, sift together flour with baking powder and salt. Then add the dry ingredients a little at a time to the butter mixture until well blended.
+In a medium bowl, sift together flour with baking powder and salt. Then add the dry ingredients a little at a time to the butter mixture until well blended. Scrape sides of the bowl as needed.
 
 Spoon batter into prepared Bundt pan and bake for 45 minutes at 350. Then reduce setting to 325 and bake 15-20 minutes, until cake is done and passes toothpick test.
 
 Cool cake in the pan on a wire rack for 10 minutes. Then remove cake from pan and let cake cool completely. 
 
-For the glaze, sift together powdered sugar and cocoa powders in a medium bowl. Slowly stir in milk and vanilla, a little at a time, until glaze is smooth and pourable. Add more milk a few drips at a time if glaze is too thick. Spoon glaze over top cooled cake and finished with crushed Butterfingers.
+For the glaze, sift together powdered sugar and cocoa powders in a medium bowl. Slowly stir in milk and vanilla, a little at a time, until glaze is smooth and pourable. Add more milk a few drips at a time if glaze is too thick. Spoon glaze over top cooled cake and finish with crushed Butterfingers.
 
 \*Substitution note: Use your favorite peanut butter/chocolate candy combo like Reese's Pieces or Reese's Peanut Butter Cups! 
