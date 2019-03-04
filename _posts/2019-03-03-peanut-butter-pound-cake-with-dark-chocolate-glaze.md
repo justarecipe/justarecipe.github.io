@@ -8,7 +8,7 @@ categories:
 - peanut butter
 - dark chocolate
 image: assets/images/USE03857 (2).JPG
-featured: false
+featured: true
 hidden: false
 date: 2019-03-03 23:26:42 -0500
 
