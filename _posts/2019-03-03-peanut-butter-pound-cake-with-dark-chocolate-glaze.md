@@ -7,7 +7,7 @@ categories:
 - " cake"
 - peanut butter
 - dark chocolate
-image: assets/images/USE03857 (2).JPG
+image: assets/images/MAX038572.JPG
 featured: true
 hidden: false
 date: 2019-03-03 23:26:42 -0500
