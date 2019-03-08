@@ -1,7 +1,6 @@
 ---
 label: primary_post
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -39,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/italian-stromboli.md
 - _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
 - _posts/2019-03-01-instant-pot-creamy-chicken-gnocchi-soup-with-kale.md
 - _posts/2019-02-22-creamy-garlic-chicken-with-asparagus.md
