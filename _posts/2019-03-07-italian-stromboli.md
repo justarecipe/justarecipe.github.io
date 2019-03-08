@@ -12,7 +12,7 @@ hidden: false
 date: 2019-03-07 22:53:53 -0500
 
 ---
-Time: 45 minutes; Serves 4 as a meal or more as an appetizer
+Time: 45 minutes; Makes 4 servings as a meal or more as an appetizer
 
 * Pre-made pizza dough (Or make your own! Recipe coming soon!)
 * 8 ounces sliced or shredded cheese (provolone, mozzarella)
