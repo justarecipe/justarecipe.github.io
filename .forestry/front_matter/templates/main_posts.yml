@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/bread-machine-homemade-light-rye-bread.md
 - _posts/2019-03-07-italian-stromboli.md
 - _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
 - _posts/2019-03-01-instant-pot-creamy-chicken-gnocchi-soup-with-kale.md
