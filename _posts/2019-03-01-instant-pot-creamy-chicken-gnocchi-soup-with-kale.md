@@ -9,7 +9,7 @@ categories:
 - gnocchi
 - kale
 image: assets/images/USE3812.JPG
-featured: false
+featured: true
 hidden: false
 date: 2019-03-01 13:56:31 -0500
 
