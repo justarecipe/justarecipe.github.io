@@ -10,6 +10,9 @@ categories:
 - muffins
 - egg-less recipes
 date: 2019-03-15 17:15:58 -0400
+image: ''
+featured: false
+hidden: false
 
 ---
 Time: 35 minutes; Makes 24 mini muffins
@@ -28,10 +31,10 @@ Time: 35 minutes; Makes 24 mini muffins
 
 3 cups oat (quick or rolled)
 
-Heat oven to 400 degrees and spray the mini muffin pan with a non-stick baking spray like PAM Baking Spray with Flour. 
+Heat oven to 400 degrees and spray the mini muffin pan with a non-stick baking spray like PAM Baking Spray with Flour.
 
 Place the yogurt, bananas, maple syrup, baking powder, baking soda and cinnamon in a blender and blend together. Then add 1/2 cup of oats at a time to the blender. Stop the blend to stir/scrape down if necessary.
 
 Divide batter among the 24 mini muffin cups and bake for 20 minutes or until toothpick comes out clean.
 
-_This recipe is great for anyone trying baby-led weaning or dealing with egg allergies._
+_This recipe is great for anyone trying baby-led weaning or toddlers who have egg allergies._
