@@ -17,19 +17,13 @@ hidden: false
 ---
 Time: 35 minutes; Makes 24 mini muffins
 
-1 cup plain yogurt
-
-2 very ripe bananas
-
-1/2 cup maple syrup
-
-1 1/2 tsp. baking powder
-
-1/2 tsp. baking soda
-
-1/4 tsp. cinnamon
-
-3 cups oat (quick or rolled)
+* 1 cup plain yogurt
+* 2 very ripe bananas
+* 1/2 cup maple syrup
+* 1 1/2 tsp. baking powder
+* 1/2 tsp. baking soda
+* 1/4 tsp. cinnamon
+* 3 cups oat (quick or rolled)
 
 Heat oven to 400 degrees and spray the mini muffin pan with a non-stick baking spray like PAM Baking Spray with Flour.
 
