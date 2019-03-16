@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BLW Banana Oatmeal Muffins with No Egg or Flour
+title: Banana Oatmeal Muffins with No Egg or Flour
 author: Chris
 categories:
 - blw recipe
@@ -10,7 +10,7 @@ categories:
 - muffins
 - egg-less recipes
 date: 2019-03-15 17:15:58 -0400
-image: ''
+image: assets/images/banana-oatmeal-muffin.JPG
 featured: false
 hidden: false
 
