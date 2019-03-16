@@ -27,7 +27,7 @@ Time: 35 minutes; Makes 24 mini muffins
 
 Heat oven to 400 degrees and spray the mini muffin pan with a non-stick baking spray like PAM Baking Spray with Flour.
 
-Place the yogurt, bananas, maple syrup, baking powder, baking soda and cinnamon in a blender and blend together. Then add 1/2 cup of oats at a time to the blender. Stop the blend to stir/scrape down if necessary.
+Place the yogurt, bananas, maple syrup, baking powder, baking soda and cinnamon in a blender and blend together. Then add 1/2 cup of oats at a time to the blender. Stop the blend to stir/scrape down if necessary. Blend until well incorporated.
 
 Divide batter among the 24 mini muffin cups and bake for 20 minutes or until toothpick comes out clean.
 
