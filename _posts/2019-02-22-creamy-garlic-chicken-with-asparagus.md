@@ -12,7 +12,9 @@ hidden: false
 date: 2019-02-22 04:53:46 +0000
 
 ---
-time: 50 minutes; Makes 4 servings
+Time: 50 minutes; Makes 4 servings
+
+INGREDIENTS
 
 * 1 lb chicken breast or thigh
 * 2 tablespoons olive oil
