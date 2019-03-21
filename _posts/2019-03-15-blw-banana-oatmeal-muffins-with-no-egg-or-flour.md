@@ -19,6 +19,8 @@ Time: 35 minutes; Makes 24 mini muffins
 
 _This recipe is great for anyone trying baby-led weaning or serving toddlers who have egg allergies. Tasty enough to snack on as an adult, too._
 
+INGREDIENTS
+
 * 1 cup plain yogurt
 * 2 very ripe bananas
 * 1/2 cup maple syrup
