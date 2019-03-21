@@ -8,13 +8,17 @@ categories:
 - homemade bread
 - bread
 - rye
-date: 2019-03-10 17:30:07 -0400
+date: 2019-03-10 21:30:07 +0000
 image: assets/images/USE03898.JPG
 featured: false
 hidden: false
 
 ---
 Time: 3 hours 30 minutes; Makes one loaf
+
+_This recipe is an easy introduction to a bread machine and makes great sandwich rye bread._
+
+INGREDIENTS
 
 1 1/2 cups water
 
@@ -45,7 +49,7 @@ When adding the yeast, be sure the yeast does not touch the water. If dry yeast 
 
 After all the ingredients are placed in the baking pan, return the pan to the bread machine and make sure the lid is closed securely. Use the Select Course button to set the arrow to regular wheat** and press the Start button. The display will show the completion time. When the bread is done baking, the machine will beep. Remove the loaf any time after the completion beep using care as the bread machine and lid will be hot.
 
-Let cool before storing. 
+Let cool before storing.
 
 \*can substitute 2 1/2 tsp. rapid rise yeast IF doing quick bake.
 
