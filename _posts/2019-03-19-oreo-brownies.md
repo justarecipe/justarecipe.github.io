@@ -16,6 +16,8 @@ Time: 1 hour MAX; Makes 12-16 servings
 
 _This recipe takes your typical box brownies and makes them a little more indulgent without too much hassle._
 
+INGREDIENTS
+
 * 1 box favorite brownie mix
 * egg, as directed on box brownies
 * vegetable oil, as directed on box brownies
