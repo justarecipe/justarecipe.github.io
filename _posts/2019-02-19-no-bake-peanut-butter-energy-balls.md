@@ -14,15 +14,17 @@ categories:
 image: assets/images/USE03738.JPG
 featured: true
 hidden: false
-date: 2019-02-19 21:04:05 -0500
+date: 2019-02-20 02:04:05 +0000
 
 ---
 _Time: 10 minutes_
 
+INGREDIENTS
+
 * 2 cups old-fashioned oats
 * 1 1/3 cup creamy peanut butter
-* 1/2 cup ground flax seed 
-* 1/4 cup honey 
+* 1/2 cup ground flax seed
+* 1/4 cup honey
 * 1 cup chocolate chips
 * optional: 1-2 tbsp chia seeds
 
@@ -30,4 +32,4 @@ Combine all ingredients in a large bowl or mixer. Beat on low until well mixed. 
 
 Store in the refrigerator for up to a week or in the freezer for up to three months.
 
-_The recipe for these No-Bake Peanut Butter Energy Balls was originally posted on_ [_I Heart Naptime_](https://www.iheartnaptime.net/energy-balls/)_._ 
+_The recipe for these No-Bake Peanut Butter Energy Balls was originally posted on_ [_I Heart Naptime_](https://www.iheartnaptime.net/energy-balls/)_._
