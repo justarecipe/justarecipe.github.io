@@ -11,10 +11,12 @@ categories:
 image: assets/images/USE3812.JPG
 featured: true
 hidden: false
-date: 2019-03-01 13:56:31 -0500
+date: 2019-03-01 18:56:31 +0000
 
 ---
 Time: 1 hour; Makes 8 servings
+
+INGREDIENTS
 
 * 6 strips bacon
 * 1 tsp. olive oil
