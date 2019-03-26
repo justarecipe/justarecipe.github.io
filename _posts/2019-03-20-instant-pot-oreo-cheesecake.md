@@ -14,7 +14,7 @@ hidden: false
 date: 2019-03-20 22:01:14 -0400
 
 ---
-Time: 5 hours; Makes 6-8 servings
+Time: 5 hours total (50 minutes active); Makes 6-8 servings
 
 INGREDIENTS
 
