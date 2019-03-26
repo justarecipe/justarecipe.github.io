@@ -9,7 +9,7 @@ categories:
 - instant pot
 - IP
 image: assets/images/oreo_cheesecake.JPG
-featured: false
+featured: true
 hidden: false
 date: 2019-03-20 22:01:14 -0400
 
