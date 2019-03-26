@@ -16,6 +16,8 @@ date: 2019-03-20 22:01:14 -0400
 ---
 Time: 5 hours total (50 minutes active); Makes 6-8 servings
 
+_This recipe is an easy introduction to using the Instant Pot for delicious cheesecakes._
+
 INGREDIENTS
 
 * 3/4 cup crushed Oreo cookies (or chocolate graham crackers)
