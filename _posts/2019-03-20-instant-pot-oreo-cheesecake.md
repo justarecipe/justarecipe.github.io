@@ -14,35 +14,23 @@ hidden: false
 date: 2019-03-20 22:01:14 -0400
 
 ---
-Time: x; Makes 6-8 servings
+Time: 5 hours; Makes 6-8 servings
 
 INGREDIENTS
 
-3/4 cup crushed Oreo cookies (or chocolate graham crackers)
-
-2 Tbsp. melted butter
-
-12 oz. cream cheese
-
-1/2 cup sugar
-
-1/4 cup heavy cream
-
-1/4 cup sour cream
-
-1 tsp. vanilla extract
-
-1 Tbsp. all-purpose flour
-
-2 eggs, room temperature
-
-1 egg yolk, room temperature
-
-8 Oreos, coarsely chopped
-
-1 cup water
-
-Chocolate sauce, whipped cream and 4 Oreos, for garnish
+* 3/4 cup crushed Oreo cookies (or chocolate graham crackers)
+* 2 Tbsp. melted butter
+* 12 oz. cream cheese
+* 1/2 cup sugar
+* 1/4 cup heavy cream
+* 1/4 cup sour cream
+* 1 tsp. vanilla extract
+* 1 Tbsp. all-purpose flour
+* 2 eggs, room temperature
+* 1 egg yolk, room temperature
+* 8 Oreos, coarsely chopped
+* 1 cup water
+* Chocolate sauce, whipped cream and 4 Oreos, for garnish
 
 Coat the inside of a 7-inch springform pan with nonstick spray and line the bottom with parchment paper.
 
