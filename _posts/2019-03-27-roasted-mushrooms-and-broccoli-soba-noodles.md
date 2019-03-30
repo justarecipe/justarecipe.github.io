@@ -9,7 +9,7 @@ categories:
 - broccoli
 - mushrooms
 - kale
-image: ''
+image: assets/images/broccoli_mushrooms_soba.JPG
 featured: false
 hidden: false
 date: 2019-03-27 16:43:57 -0400
