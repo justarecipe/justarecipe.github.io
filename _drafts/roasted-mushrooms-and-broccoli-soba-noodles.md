@@ -26,7 +26,7 @@ INGREDIENTS FOR ROASTED MUSHROOMS
 * 1 Tbsp. rice wine vinegar
 * 2 Tbsp. honey
 * 2 Tbsp. soy sauce (reduced sodium)
-* 1/2 tsp. grated ginger 
+* 1/2 tsp. grated ginger
 
   INGREDIENTS FOR NOODLES & VEGGIES
 * 2 bundles of soba noodles
@@ -34,9 +34,9 @@ INGREDIENTS FOR ROASTED MUSHROOMS
 * 2 cloves garlic, minced
 * 1/2 shallot, diced
 * 1 head broccoli florets, cut in bite size pieces
-* 5 stalks kale, cut into shreds 
+* 5 stalks kale, cut into shreds
 
-  INGREDIENTS FOR SOBA NOODLE SAUCE 
+  INGREDIENTS FOR SOBA NOODLE SAUCE
 * 1/4 cup soy sauce (reduced sodium)
 * 2 Tbsp. olive oil
 * Juice of 1 lemon
@@ -50,6 +50,8 @@ To prepare the roasted mushrooms, heat oven to 425 and line a baking sheet with 
 
 Whisk together high-heat oil, rice wine vinegar, honey, soy sauce and grated ginger. Pour glaze over this mushrooms and mix until evenly coated. Place mushrooms on the lined baking sheet and roast for 15 minutes. Remove sheet from the oven and toss the mushrooms to ensure even cooking. Roast for another 15 minutes and set aside.
 
-While the mushrooms are roasting, whisk together the soba noodle sauce ingredients - 
+While the mushrooms are roasting, whisk together the soba noodle sauce ingredients - soy sauce, olive oil, lemon juice, toasted sesame oil, honey, sriracha and grated ginger. Set aside.
 
-While the mushrooms are roasting, cook soba noodles according to package directions. Then heat a large skillet with 1 Tbsp. olive oil over medium heat. Add minced garlic and diced shallot and cook for 1 minute. Add broccoli and kale (and salt and pepper to taste). Cook until tender, about 5 minutes.
+Then cook soba noodles according to package directions. Separately heat a large skillet with 1 Tbsp. olive oil over medium heat. Add minced garlic and diced shallot and cook for 1 minute. Add broccoli and kale (and salt and pepper to taste). Cook until tender, about 5 minutes. Add cooked soba noodles to the pan of broccoli and kale. Pour in the soba noodle sauce and stir until evenly coated.
+
+Plate the noodles and veggies, and top with the roasted mushrooms. Garnish with sesame seeds.
