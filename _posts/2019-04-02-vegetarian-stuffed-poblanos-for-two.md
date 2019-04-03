@@ -15,7 +15,7 @@ date: 2019-04-02 21:57:08 -0400
 ---
 Time: 45 minutes; Makes 3 servings
 
-_Tasty poblanos with rice, black beans and melted cheese combine for a_ 
+_Tasty poblanos with rice, black beans and melted cheese combine for a delicious vegetarian dinner._
 
 INGREDIENTS
 
