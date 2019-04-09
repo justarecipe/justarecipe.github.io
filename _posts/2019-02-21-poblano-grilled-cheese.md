@@ -8,9 +8,9 @@ categories:
 - sandwiches
 - peppers
 image: assets/images/USE03752.JPG
-featured: true
+featured: false
 hidden: false
-date: 2019-02-21 12:19:56 -0500
+date: 2019-02-21 17:19:56 +0000
 
 ---
 _Time: 45 minutes; Makes 4 sandwiches_
