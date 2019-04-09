@@ -7,7 +7,7 @@ categories:
 - pretzels
 - snack
 image: assets/images/pretzel_w_cheese.JPG
-featured: false
+featured: true
 hidden: false
 date: 2019-04-04 12:49:48 -0400
 
