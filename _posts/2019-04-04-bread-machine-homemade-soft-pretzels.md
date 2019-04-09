@@ -39,13 +39,13 @@ Remove the baking pan from the bread machine and attach the kneading blades. Mea
 3. brown sugar and salt
 4. Active dry yeast (make a depression in the middle of the flour)
 
-When adding the yeast, be sure the yeast does not touch the water. If dry yeast comes into contact with the liquid, the dough may not rise sufficiently. But this machine does all the work so your dough will be perfect... and super easy.
+When adding the yeast, be sure the yeast does not touch the water. If dry yeast comes into contact with the liquid, the dough may not rise sufficiently. But this machine does all the work so your dough will be perfect... and it's super easy.
 
 After all the ingredients are placed in the baking pan, return the pan to the bread machine and make sure the lid is closed securely. Use the Select Course button to set the arrow Regular Dough and press Start. The display will show the completion time for your dough.
 
 Once the dough is ready and the bread machine beeps, remove the baking pan from the machine. Place your dough on a clean surface and divide it into 8 equal parts.
 
-Begin shaping your pretzels by rolling the dough into a 20-inch long rope. Then pull the sides up to form a U and twist in the middle to form into the familiar pretzel shape. Set your completed pretzels on an oiled baking sheet and set aside.
+Begin shaping your pretzels by rolling the dough into a 20-inch long rope. I find a little flour helps during this part. Pull the sides up to form a U and twist in the middle to form into the familiar pretzel shape. Set your completed pretzels on an oiled baking sheet and set aside.
 
 Heat the oven to 450 degrees and prepare the pot of water to boil the pretzels. This step gives the pretzel is chewy outside and is a must. Bring a large pot of water to a simmering boil and add the baking soda to the pot. Boil the pretzels one or two at a time for one minute and remove. Place the boiled pretzels on a towel to absorb any extra water. I recommend using a slotted spoon to remove the pretzels.
 
