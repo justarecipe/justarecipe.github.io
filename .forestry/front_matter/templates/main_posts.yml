@@ -38,8 +38,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2019-04-04-bread-machine-homemade-soft-pretzels.md
 - _posts/2019-04-02-vegetarian-stuffed-poblanos-for-two.md
+- _posts/2019-04-04-bread-machine-homemade-soft-pretzels.md
 - _posts/2019-03-27-roasted-mushrooms-and-broccoli-soba-noodles.md
 - _posts/2019-03-20-instant-pot-oreo-cheesecake.md
 - _posts/2019-03-07-italian-stromboli.md

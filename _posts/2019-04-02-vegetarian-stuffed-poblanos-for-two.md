@@ -8,7 +8,7 @@ categories:
 - " weeknight dinner"
 - poblano
 image: assets/images/veg_stuffed_poblanos.JPG
-featured: false
+featured: true
 hidden: false
 date: 2019-04-02 21:57:08 -0400
 
