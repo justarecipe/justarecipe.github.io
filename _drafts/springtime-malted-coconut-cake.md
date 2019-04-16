@@ -12,10 +12,9 @@ hidden: false
 date: 2019-04-15 23:42:56 -0400
 
 ---
-
 Time: 2 h 30 minutes; Makes 12-15 servings
 
-_This white cake recipe is perfect for springtime with a unique buttercream frosting._ 
+_This white cake recipe is perfect for springtime with a unique buttercream frosting._
 
 INGREDIENTS FOR CAKE
 
@@ -39,20 +38,20 @@ INGREDIENTS FOR FROSTING
 * pinch of salt
 * blue gel food coloring
 
-Heat oven to 350 degrees and prepare three 8-inch pans. Lightly grease the pan and line the bottom with parchment paper rounds like [these from Amazon](https://www.amazon.com/Regency-Parchment-Paper-Liners-diameter/dp/B000R9J19A) or cut your parchment paper to size. 
+Heat oven to 350 degrees and prepare three 8-inch pans. Lightly grease the pan and line the bottom with parchment paper rounds like [these from Amazon](https://www.amazon.com/Regency-Parchment-Paper-Liners-diameter/dp/B000R9J19A) or cut your parchment paper to size.
 
-Sift together flour, baking powder, malt powder and salt in a bowl. 
+Sift together flour, baking powder, malt powder and salt in a bowl.
 
-In a larger bowl, whisk the oil, half & half, sugar, vanilla extract, coconut extract and egg until smooth. Fold in the flour mixture until just incorporated. 
+In a larger bowl, whisk the oil, half & half, sugar, vanilla extract, coconut extract and egg until smooth. Fold in the flour mixture until just incorporated.
 
 In a separate bowl, use an electric mixer on medium-high speed to beat the egg whites. Beat for 2 minutes or until stiff peaks form. Fold egg whites into the batter until just combined.
 
-Immediately divide batter into prepared pans. Bake 18-22 minutes or until the cakes pass the toothpick test. 
+Immediately divide batter into prepared pans. Bake 18-22 minutes or until the cakes pass the toothpick test.
 
 Cool in pans on a wire rack for 15 minutes. Invert the racks to cool completely. As the three cakes cool to room temperature, whip together the buttercream frosting...
 
 Beat butter and cream of coconut with an electric mixer on medium speed until smooth, about 2 minutes. Gradually beat in sugar. Beat in vanilla and a pinch of salt. Finish the frosting with blue gel food coloring, one drop at a time, until the desired shade is reached.
 
-With the buttercream frosting ready to go, place a layer on a cake plate. Top with approximately 1 cup of frosting. Repeat two more times. Frost sides with remaining coconut buttercream and use an offset spatula, making even strokes. 
+With the buttercream frosting ready to go, place a layer on a cake plate. Top with approximately 1 cup of frosting. Repeat two more times. Frost sides with remaining coconut buttercream and use an offset spatula, making even strokes.
 
-Whisk together oil, half & half, sugar, vanilla
+The recipe for this perfect springtime cake was originally posted by [Country Living](https://www.countryliving.com/food-drinks/a37893/easter-speckled-malted-coconut-cake-recipe/). 
