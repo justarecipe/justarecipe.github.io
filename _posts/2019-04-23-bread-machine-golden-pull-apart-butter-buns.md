@@ -7,8 +7,8 @@ categories:
 - bread machine
 - carbs
 - bread
-image: ''
-featured: false
+image: assets/images/butter_buns.jpg
+featured: true
 hidden: false
 date: 2019-04-23 23:10:52 -0400
 
