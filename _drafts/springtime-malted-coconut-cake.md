@@ -52,6 +52,6 @@ Cool in pans on a wire rack for 15 minutes. Invert the racks to cool completely.
 
 Beat butter and cream of coconut with an electric mixer on medium speed until smooth, about 2 minutes. Gradually beat in sugar. Beat in vanilla and a pinch of salt. Finish the frosting with blue gel food coloring, one drop at a time, until the desired shade is reached.
 
-With the buttercream frosting ready to go, place a layer on a cake plate. Top with approximately 1 cup of frosting. Repeat two more times. Frost sides with remaining coconut buttercream and use an offset spatula, making even strokes.
+With the buttercream frosting ready to go, place a layer on a cake plate. Top with approximately 1 cup of frosting. Repeat two more times. Frost sides with remaining coconut buttercream and use an offset spatula, making even strokes. 
 
 The recipe for this perfect springtime cake was originally posted by [Country Living](https://www.countryliving.com/food-drinks/a37893/easter-speckled-malted-coconut-cake-recipe/). 
