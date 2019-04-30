@@ -9,9 +9,9 @@ categories:
 - gnocchi
 - kale
 image: assets/images/USE3812.JPG
-featured: true
+featured: false
 hidden: false
-date: 2019-03-01 18:56:31 +0000
+date: '2019-03-01T18:56:31.000+00:00'
 
 ---
 Time: 1 hour; Makes 8 servings
