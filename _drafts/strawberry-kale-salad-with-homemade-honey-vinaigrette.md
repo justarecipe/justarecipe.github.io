@@ -10,7 +10,7 @@ categories:
 - vegetarian
 - honey
 - vinaigrette
-image: ''
+image: assets/images/kale-strawberry-salad.JPG
 featured: false
 hidden: false
 
