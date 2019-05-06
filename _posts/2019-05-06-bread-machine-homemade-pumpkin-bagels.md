@@ -41,6 +41,6 @@ Once the dough is ready, remove it from the bread machine and place on a gently 
 
 With your bagels shaped, heat the oven to 400 degrees and bring a pot of water and baking soda to boil. This boiling process gives the bagels their well-known shiny crust and chewy texture. Mmmm. You could substitute barley malt syrup for the baking soda, but I always have baking soda and I never have barley malt syrup. And the end result: still delicious.
 
-Drop bagels in the boiling water for 60 seconds and remove with a slotted spoon. Place the boiled bagels on a kitchen towel to absorb any water. Move the bagels to a parchment paper lined tray and bake for 15 minutes.
+Drop bagels in the boiling water for 60 seconds and remove with a slotted spoon. Place the boiled bagels on a kitchen towel to absorb any water. Move the bagels to a greased parchment paper lined tray and bake for 15 minutes. 
 
 Let cool on wire racks. Slice and top with cream cheese or maple cream.
