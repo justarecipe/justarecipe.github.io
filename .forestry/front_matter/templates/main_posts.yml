@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/bread-machine-homemade-pumpkin-bagels.md
 - _posts/2019-04-30-strawberry-kale-salad-with-homemade-honey-vinaigrette.md
 - _posts/2019-04-23-bread-machine-golden-pull-apart-butter-buns.md
 - _posts/springtime-malted-coconut-cake.md
