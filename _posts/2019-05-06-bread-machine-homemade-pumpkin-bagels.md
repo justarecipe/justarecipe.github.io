@@ -6,12 +6,12 @@ categories:
 - bagels
 - bread machine
 - pumpkin
-image: ''
+image: assets/images/pumpkin_bagel.JPG
 featured: false
 hidden: false
 
 ---
-Time: xx; Makes 8 bagels
+Time: 3 hours; Makes 8 bagels
 
 _This recipe puts a bread machine to good use and results in perfect homemade pumpkin bagels._
 
@@ -35,7 +35,7 @@ To make this recipe, I use the [Zojirushi Breadmaker Model BB-PAC20](https://www
 
 Place wet ingredients (water, pumpkin) in the baking pan of the bread machine. Then add dry ingredients on top (brown sugar, spices and bread flour). Create an indentation for the yeast so that it does not come into contact with the water prematurely.
 
-Once the ingredients are in the baking pan, return the pan to the bread machine and make sure the lid is closed securely. Use the Select Course button to set the arrow to Regular Dough and press Start. The display will show the completion time for the dough. 
+Once the ingredients are in the baking pan, return the pan to the bread machine and make sure the lid is closed securely. Use the Select Course button to set the arrow to Regular Dough and press Start. The display will show the completion time for the dough.
 
 Once the dough is ready, remove it from the bread machine and place on a gently greased surface. Divide the dough into eight equal pieces by dividing in half, then in halves again, etc. Round each piece into a ball and use your thumb to poke a hole in the middle of the dough ball. Place each shaped bagel on a parchment paper lined tray. If time allows, let the shaped bagels rise a bit more on the tray till they almost double in size. (Bagel purists say to refrigerate dough for a day but get serious, they still taste delicious without this 24-hour delay and you get to eat bagels sooner this way.)
 
