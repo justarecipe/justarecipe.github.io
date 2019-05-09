@@ -5,7 +5,7 @@ author: Chris
 categories:
 - instant pot
 - chicken
-image: ''
+image: assets/images/whole-rotisserie-chicken-shredded.JPG
 featured: false
 hidden: false
 
