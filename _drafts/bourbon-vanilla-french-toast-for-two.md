@@ -7,12 +7,11 @@ categories:
 - bourbon
 - brunch
 - meal for two
-image: ''
+image: assets/images/bourbon-french-toast.JPG
 featured: false
 hidden: false
 
 ---
-
 Time: 25 minutes: Yields 2 servings
 
 _An alcohol-inspired take on French toast that's delicious and decadent._
@@ -30,6 +29,6 @@ INGREDIENTS
 
 In a shallow bowl, whisk together the eggs, milk, bourbon, sugar, vanilla and nutmeg. Cut four slices of homemade bread or gather the slices from something store-bought. (Homemade bread MAKES this recipe, in my opinion, but use what you got!)
 
-Heat pan over medium heat and once hot, add a slice of butter to the pan. Once butter is melted, place a slice of bread in the egg mixture for 15 seconds on one side and 15 seconds on the other. The bread should sop up some of the moisture without absorbing too much or becoming too mushy. Place bread on the pan and cook for 2 to 3 minutes or until golden brown. Flip slice and cook for another 2 to 3 minutes until golden brown. 
+Heat pan over medium heat and once hot, add a slice of butter to the pan. Once butter is melted, place a slice of bread in the egg mixture for 15 seconds on one side and 15 seconds on the other. The bread should sop up some of the moisture without absorbing too much or becoming too mushy. Place bread on the pan and cook for 2 to 3 minutes or until golden brown. Flip slice and cook for another 2 to 3 minutes until golden brown.
 
-Repeat process until all remaining slices are cooked to perfection and enjoy! It's a decadent way to start the day but one of my weekend favorites! Serve with maple syrup or powdered sugar and berries.
+Repeat process until all remaining slices are cooked to perfection and enjoy! Serve with maple syrup or powdered sugar and berries.
