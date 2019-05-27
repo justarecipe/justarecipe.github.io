@@ -8,7 +8,7 @@ categories:
 - brunch
 - meal for two
 image: assets/images/bourbon-french-toast.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
