@@ -9,7 +9,7 @@ categories:
 - egg-free
 - no egg
 image: assets/images/banana-spinach-muffin.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
