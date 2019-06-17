@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/instant-pot-bbq-chicken.md
 - _posts/2019-06-07-spinach-banana-mini-muffins-with-no-egg.md
 - _posts/2019-05-27-bourbon-vanilla-french-toast-for-two.md
 - _posts/2019-04-02-vegetarian-stuffed-poblanos-for-two.md
