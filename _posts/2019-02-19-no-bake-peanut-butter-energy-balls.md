@@ -12,9 +12,9 @@ categories:
 - honey
 - chocolate chips
 image: assets/images/USE03738.JPG
-featured: false
+featured: true
 hidden: false
-date: 2019-02-20 02:04:05 +0000
+date: '2019-02-20T02:04:05.000+00:00'
 
 ---
 _Time: 10 minutes_
