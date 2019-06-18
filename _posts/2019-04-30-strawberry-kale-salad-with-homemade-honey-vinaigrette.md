@@ -11,7 +11,7 @@ categories:
 - honey
 - vinaigrette
 image: assets/images/kale-strawberry-salad.JPG
-featured: true
+featured: false
 hidden: false
 
 ---

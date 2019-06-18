@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2019-04-30-strawberry-kale-salad-with-homemade-honey-vinaigrette.md
 - _posts/chocolate-cake-balls-egg-free-version.md
 - _posts/corn-and-poblano-lasagna.md
 - _posts/2019-06-17-instant-pot-bbq-chicken.md
@@ -46,7 +47,6 @@ pages:
 - _posts/2019-04-02-vegetarian-stuffed-poblanos-for-two.md
 - _posts/2019-05-22-caramelized-pineapple-poblano-quesadillas.md
 - _posts/2019-03-20-instant-pot-oreo-cheesecake.md
-- _posts/2019-04-30-strawberry-kale-salad-with-homemade-honey-vinaigrette.md
 - _posts/2019-03-19-oreo-brownies.md
 - _posts/2019-04-23-bread-machine-golden-pull-apart-butter-buns.md
 - _posts/2019-05-06-bread-machine-homemade-pumpkin-bagels.md
