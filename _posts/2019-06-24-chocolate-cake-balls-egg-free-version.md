@@ -6,7 +6,7 @@ categories:
 - dessert
 - chocolate
 image: assets/images/choc-cake-balls.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
@@ -36,7 +36,7 @@ INGREDIENTS FOR CHOCOLATE COATING
 
 BAKING THE CAKE
 
-Create a "flaxseed egg" by mixing the flaxseed and 7.5 Tbsp. of water in a small bowl. Set aside for a few minutes. Heat oven to 350 degrees and grease 9x13 metal or glass pan. 
+Create a "flaxseed egg" by mixing the flaxseed and 7.5 Tbsp. of water in a small bowl. Set aside for a few minutes. Heat oven to 350 degrees and grease 9x13 metal or glass pan.
 
 In a large mixing bowl, combine chocolate cake mix, oil, water and flaxseed egg substitute. Blend for 30 seconds on low speed. Then beat on medium speed for 2-3 minutes.
 
@@ -52,10 +52,12 @@ Cut cake into several sections and crumble with your hands section by section. T
 
 Roll out 48 cake balls on place on a parchment paper lined baking sheet. Once rolled, place cake balls in the freezer for up to an hour. You want them solid so they're easy to work with but not frozen.
 
-COATING AND DECORATING THE BAKE BALLS
+COATING AND DECORATING THE CAKE BALLS
 
 Melt half your chocolate wafers in a microwave-safe bowl in the microwave, following package directions. Pull out a few cake balls and begin the process of coating and decorating each cake ball. Place one cake ball in the melted chocolate and spoon chocolate so that the entire ball is coated. Use a fork to gently remove the cake ball from the bowl and scrape the bottom of the fork against the bowl, removing extra chocolate that's dripping off the cake ball. Place the coated cake ball on wax paper and immediately decorate.
 
 Repeat the process and melt the other half of chocolate wafers as you work through the batches of cake balls.
 
-If excess chocolate settles around the cake ball on the wax paper, wait until the cake ball is dry and use a toothpick to draw a line around the base. Store in an airtight container in the fridge for a few days. 
+If excess chocolate settles around the cake ball on the wax paper, wait until the cake ball is dry and use a toothpick to draw a line around the base. 
+
+Store in an airtight container in the fridge for a few days.
