@@ -5,7 +5,7 @@ author: Chris
 categories:
 - dessert
 - chocolate
-image: ''
+image: assets/images/choc-cake-balls.JPG
 featured: false
 hidden: false
 
