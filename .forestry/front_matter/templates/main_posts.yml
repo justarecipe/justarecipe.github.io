@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/instant-pot-20-minute-spaghetti-squash.md
 - _posts/2019-04-30-strawberry-kale-salad-with-homemade-honey-vinaigrette.md
 - _posts/2019-06-24-chocolate-cake-balls-egg-free-version.md
 - _posts/corn-and-poblano-lasagna.md
