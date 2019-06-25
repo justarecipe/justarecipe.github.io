@@ -6,7 +6,7 @@ categories:
 - instant pot
 - easy veggies
 - squash
-image: ''
+image: assets/images/spaghetti-squash-IP.JPG
 featured: false
 hidden: false
 
@@ -17,13 +17,10 @@ _Easy and quick Instant Pot (IP) recipe that creates tasty faux noodles using a 
 
 INGREDIENTS
 
-1 midsize spaghetti squash
-
-1 cup water
-
-i tsp olive oil
-
-salt and pepper to taste
+* 1 midsize spaghetti squash
+* 1 cup water
+* 1 tsp olive oil
+* salt and pepper to taste
 
 Wash your spaghetti squash and slice in half lengthwise. The rind is thick so approach it as you would a watermelon of butternut squash and make sure your knife hasn't dulled.
 
@@ -33,4 +30,4 @@ Place the IP pot inside the IP base and fill with 1 cup water. Place IP cooking 
 
 Seal the Instant Pot and program to 6 minutes on High Pressure. Once the pressure has built up and the six minutes has eclipsed, the IP will beep. Do a Quick Release and remove the IP lid.
 
-Remove the spaghetti squash halves and use a fork to create the faux noodles by scraping the flesh of the squash.
+Remove the spaghetti squash halves and use a fork to create the faux noodles by scraping the flesh of the squash. Serve with your favorite sauce.
