@@ -8,6 +8,7 @@ categories:
 - bourbon
 - chili
 - vegetarian meal
+- maple syrup
 image: assets/images/sweet-potato-chili.JPG
 featured: false
 hidden: false
