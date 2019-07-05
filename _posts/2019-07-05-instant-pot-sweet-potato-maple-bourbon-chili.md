@@ -8,14 +8,14 @@ categories:
 - bourbon
 - chili
 - vegetarian meal
-image: ''
+image: assets/images/sweet-potato-chili.JPG
 featured: false
 hidden: false
 
 ---
 Time: 40 minutes; Yields: 4 servings
 
-_A hearty vegetarian chili that packs up a punch with sweet potatoes, a variety of beans,  and a splash of bourbon and maple syrup -- and it cooks to perfection in the Instant Pot!_
+_A hearty vegetarian chili that packs up a punch with sweet potatoes, a variety of beans, and a splash of bourbon and maple syrup -- and it cooks to perfection in the Instant Pot!_
 
 INGREDIENTS
 
