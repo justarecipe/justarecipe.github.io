@@ -7,7 +7,7 @@ categories:
 - cake
 - dessert
 image: assets/images/double-fudge-choc-cake.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
