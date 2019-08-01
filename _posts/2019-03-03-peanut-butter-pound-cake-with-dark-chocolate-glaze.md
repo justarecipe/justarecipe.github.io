@@ -8,9 +8,9 @@ categories:
 - peanut butter
 - dark chocolate
 image: assets/images/MAX038572.JPG
-featured: true
+featured: false
 hidden: false
-date: 2019-03-03 23:26:42 -0500
+date: '2019-03-04T04:26:42.000+00:00'
 
 ---
 Time: 1 h 30 minutes; Makes 12-15 servings

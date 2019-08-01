@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
 - _posts/pumpkin-chocolate-chip-mini-muffins-egg-free.md
 - _posts/2019-07-19-double-chocolate-fudge-cake.md
 - _posts/2019-07-05-instant-pot-sweet-potato-maple-bourbon-chili.md
@@ -63,7 +64,6 @@ pages:
 - _posts/2019-06-24-chocolate-cake-balls-egg-free-version.md
 - _posts/2019-03-19-oreo-brownies.md
 - _posts/2019-03-27-roasted-mushrooms-and-broccoli-soba-noodles.md
-- _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
 - _posts/eggless-pumpkin-bread.md
 - _posts/2019-02-21-poblano-grilled-cheese.md
 - _posts/2019-03-07-italian-stromboli.md
