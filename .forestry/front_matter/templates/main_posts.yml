@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/pumpkin-chocolate-chip-mini-muffins-egg-free.md
 - _posts/2019-07-19-double-chocolate-fudge-cake.md
 - _posts/2019-07-05-instant-pot-sweet-potato-maple-bourbon-chili.md
 - _posts/corn-and-poblano-lasagna.md
