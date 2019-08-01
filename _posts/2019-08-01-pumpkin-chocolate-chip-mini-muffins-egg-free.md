@@ -8,7 +8,7 @@ categories:
 - chocolate chips
 - 'egg-free '
 image: assets/images/pumpkin-choc-chip-muffin.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
@@ -22,8 +22,8 @@ INGREDIENTS
 * 1 cup pumpkin puree
 * 1/2 cup maple syrup
 * 1/4 cup milk
-* 4 tsp. egg replacer like [Namaste Foods Egg Replacer](https://www.amazon.com/Namaste-Foods-Egg-Replacer-Ounce/dp/B016EMSCTS)
-* 4 Tbsp. warm water
+* 4 tsp. egg replacer like [Namaste Foods Egg Replacer](https://www.amazon.com/Namaste-Foods-Egg-Replacer-Ounce/dp/B016EMSCTS)*
+* 4 Tbsp. warm water*
 * 1 tsp. vanilla extract
 * 1 tsp. baking soda
 * 1/2 tsp. baking powder
@@ -38,8 +38,10 @@ In a small bowl, combine the egg replacer and warm water. Set aside.
 
 Place melted butter in a large bowl. Add pumpkin, maple syrup and milk. Whisk together to combine. Add the egg replacer mixture and whisk together. Add in the vanilla extract and whisk.
 
-Add the baking soda, baking powder, salt and pumpkin pie spice. If you bake often, it might seem weird to not have the dry ingredients combined separately and then integrated with the wet. But I promise you, it works out just fine. Whisk together until evenly combined. 
+Add the baking soda, baking powder, salt and pumpkin pie spice. If you bake often, it might seem weird to not have the dry ingredients combined separately and then integrated with the wet. But I promise you, it works out just fine. Whisk together until evenly combined.
 
 Add the flour and use a rubber spatula to stir until just combined, making sure not to over mix. Lastly add the chocolate chips and stir.
 
-Pour or scoop batter into the prepared mini muffin pan. Bake for 15 minutes and until it passed the toothpick test. Let cool in the pan for 10 minutes and enjoy! 
+Pour or scoop batter into the prepared mini muffin pan. Bake for 15 minutes and until it passed the toothpick test. Let cool in the pan for 10 minutes and enjoy!
+
+\*if egg allergies aren't a concern, you can swap the egg replacer and water for 2 large eggs. 
