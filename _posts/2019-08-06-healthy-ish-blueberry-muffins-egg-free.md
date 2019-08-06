@@ -47,4 +47,4 @@ Let cool in the pan for 10 minutes and then remove the muffins to cool completel
 
 \*if egg allergies aren’t a concern, you can swap the egg replacer and water for 2 large eggs.
 
-\**if whole wheat flour is too dense for your preferences, sub out for 1 cup all-purpose 1 cup whole wheat flour. 
+\**if whole wheat flour is too dense for your preferences, sub out for 1 cup all-purpose and 1 cup whole wheat flour. 
