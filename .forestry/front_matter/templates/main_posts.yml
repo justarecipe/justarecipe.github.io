@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/healthy-ish-blueberry-muffins-egg-free.md
 - _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
 - _posts/pumpkin-chocolate-chip-mini-muffins-egg-free.md
 - _posts/2019-07-19-double-chocolate-fudge-cake.md
