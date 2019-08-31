@@ -8,7 +8,7 @@ categories:
 - instant pot
 - healthy
 - peppers
-image: ''
+image: assets/images/stuffed-pepper-casserole-IP.JPG
 featured: false
 hidden: false
 
