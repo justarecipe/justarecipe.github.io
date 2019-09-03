@@ -8,8 +8,8 @@ categories:
 - " dessert"
 - egg-free
 - eggless
-image: ''
-featured: false
+image: assets/images/pumpkin-snickerdoodle-cookie.JPG
+featured: true
 hidden: false
 
 ---
@@ -19,27 +19,17 @@ _A delicious and relatively easy snickerdoodle cookie with a pumpkin twist. This
 
 INGREDIENTS FOR COOKIE DOUGH
 
-2 sticks unsalted butter, room temperature
-
-2/3 cup white sugar
-
-2/3 cup dark brown sugar, packed
-
-1/2 Tbsp. vanilla extract
-
-6 Tbsp. pumpkin puree
-
-2  3/4 cups all purpose flour
-
-1  1/2 tsp. cream of tartar
-
-1/2 tsp. salt
-
-1 tsp. baking soda
-
-1 tsp. ground cinnamon
-
-1 tsp. pumpkin pie spice
+* 2 sticks unsalted butter, room temperature
+* 2/3 cup white sugar
+* 2/3 cup dark brown sugar, packed
+* 1/2 Tbsp. vanilla extract
+* 6 Tbsp. pumpkin puree
+* 2  3/4 cups all purpose flour
+* 1  1/2 tsp. cream of tartar
+* 1/2 tsp. salt
+* 1 tsp. baking soda
+* 1 tsp. ground cinnamon
+* 1 tsp. pumpkin pie spice
 
 INGREDIENTS FOR SUGAR COATING
 
@@ -49,13 +39,13 @@ INGREDIENTS FOR SUGAR COATING
 
 Heat oven to 325 degrees. Line a baking tray with parchment paper and set aside.
 
-In a large bowl and standing mixer, add the butter, white sugar and brown sugar. Beat on medium speed until smooth. Add in the pumpkin puree and vanilla. Beat on medium speed until just combined.
+In a large bowl or standing mixer, add the butter, white sugar and brown sugar. Beat on medium speed until smooth. Add in the pumpkin puree and vanilla. Beat on medium speed until just combined.
 
-In a separate bowl, add the dry ingredients: flour, cream of tartar, salt, baking soda, cinnamon and pumpkin pie spice. Whisk to combine. 
+In a separate bowl, add the dry ingredients: flour, cream of tartar, salt, baking soda, cinnamon and pumpkin pie spice. Whisk to combine.
 
-Add the dry ingredients to the wet. Scrape down bowl as necessary. Mix until just combined. 
+Add the dry ingredients to the wet. Scrape down bowl as necessary. Mix until just combined.
 
-In a small bowl, combine sugar and pumpkin pie spice. Mix together. 
+In a small bowl, combine sugar and pumpkin pie spice. Mix together.
 
 Use a small scoop to gather a bit of dough. Roll into a perfect ball and then form it into a tall cylinder. This shape helps the cookie to bake into a chewy and perfect texture.
 
