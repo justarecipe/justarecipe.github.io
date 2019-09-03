@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/pumpkin-snickerdoodle-cookies-egg-free.md
 - _posts/2019-08-31-instant-pot-stuffed-pepper-casserole.md
 - _posts/2019-08-06-healthy-ish-blueberry-muffins-egg-free.md
 - _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
