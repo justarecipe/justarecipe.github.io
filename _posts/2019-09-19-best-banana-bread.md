@@ -7,8 +7,8 @@ categories:
 - quick bread
 - banana
 - " bread"
-image: ''
-featured: false
+image: assets/images/banana-bread.JPG
+featured: true
 hidden: false
 
 ---
