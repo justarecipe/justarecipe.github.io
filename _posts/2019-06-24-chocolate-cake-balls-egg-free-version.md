@@ -6,7 +6,7 @@ categories:
 - dessert
 - chocolate
 image: assets/images/choc-cake-balls.JPG
-featured: true
+featured: false
 hidden: false
 
 ---

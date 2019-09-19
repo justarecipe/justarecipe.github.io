@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2019-06-24-chocolate-cake-balls-egg-free-version.md
 - _posts/2019-09-19-best-banana-bread.md
 - _posts/2019-09-03-pumpkin-snickerdoodle-cookies-egg-free.md
 - _posts/2019-08-31-instant-pot-stuffed-pepper-casserole.md
@@ -65,7 +66,6 @@ pages:
 - _posts/2019-03-15-blw-banana-oatmeal-muffins-with-no-egg-or-flour.md
 - _posts/2019-02-22-creamy-garlic-chicken-with-asparagus.md
 - _posts/2019-06-25-instant-pot-20-minute-spaghetti-squash.md
-- _posts/2019-06-24-chocolate-cake-balls-egg-free-version.md
 - _posts/2019-03-19-oreo-brownies.md
 - _posts/2019-03-27-roasted-mushrooms-and-broccoli-soba-noodles.md
 - _posts/eggless-pumpkin-bread.md
