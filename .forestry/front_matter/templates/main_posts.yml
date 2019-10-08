@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/black-bean-burgers.md
 - _posts/2019-06-24-chocolate-cake-balls-egg-free-version.md
 - _posts/2019-09-19-best-banana-bread.md
 - _posts/2019-09-03-pumpkin-snickerdoodle-cookies-egg-free.md
