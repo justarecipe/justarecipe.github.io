@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2019-07-05-instant-pot-sweet-potato-maple-bourbon-chili.md
 - _posts/2019-11-18-autumn-salad-with-maple-bourbon-vinaigrette.md
 - _posts/black-bean-burgers.md
 - _posts/2019-06-24-chocolate-cake-balls-egg-free-version.md
@@ -48,7 +49,6 @@ pages:
 - _posts/2019-03-03-peanut-butter-pound-cake-with-dark-chocolate-glaze.md
 - _posts/pumpkin-chocolate-chip-mini-muffins-egg-free.md
 - _posts/2019-07-19-double-chocolate-fudge-cake.md
-- _posts/2019-07-05-instant-pot-sweet-potato-maple-bourbon-chili.md
 - _posts/corn-and-poblano-lasagna.md
 - _posts/2019-06-17-instant-pot-bbq-chicken.md
 - _posts/2019-06-07-spinach-banana-mini-muffins-with-no-egg.md

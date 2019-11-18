@@ -27,7 +27,7 @@ INGREDIENTS
 * 1 1/2 Tbsp. chili powder
 * 2 tsp. cumin
 * 1/2 tsp. paprika
-* 1/4 cayenne pepper
+* 1/4 tsp. cayenne pepper
 * 2 cups vegetarian broth
 * 1 15 oz. can kidney beans, drained and rinsed
 * 1 15 oz. can garbanzo beans, drained and rinsed
