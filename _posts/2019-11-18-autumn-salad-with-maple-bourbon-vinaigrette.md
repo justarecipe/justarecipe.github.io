@@ -8,7 +8,7 @@ categories:
 - vinaigrette
 - salad dressing
 image: assets/images/autumn-salad.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
