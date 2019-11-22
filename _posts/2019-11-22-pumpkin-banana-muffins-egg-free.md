@@ -7,7 +7,7 @@ categories:
 - banana
 - muffin
 - healthyish
-image: ''
+image: assets/images/alina-karpenko-d8GDJalt_BE-unsplash.jpg
 featured: false
 hidden: false
 
