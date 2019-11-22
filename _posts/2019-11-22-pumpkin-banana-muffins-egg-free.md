@@ -34,12 +34,12 @@ Heat oven to 375. Line muffin pan with muffin liners or spray with PAM Baking Sp
 
 Combine mashed bananas, pumpkin puree and brown sugar in a large bowl. Mix to combine.
 
-Add baking powder, baking soda, cinnamon, nutmeg and salt. Mix to combine. Then stir in the vegetable oil and vanilla extract. Mix until well incorporated. 
+Add baking powder, baking soda, cinnamon, nutmeg and salt. Mix to combine. Then stir in the vegetable oil and vanilla extract. Mix until well incorporated.
 
 Finally add the flour and gently fold the flour into the batter. Mix until just combined and be sure not to over mix, which could affect the texture of the muffin. The batter should be thick so don't worry about thinning it out.
 
 Scoop batter into lined or greased muffin pan and evenly distribute. Bake for 18 minutes and test the muffins with a toothpick to confirm they're done.
 
-Let cool in the pan for a few minutes. Once cooled, store in an airtight container. 
+Let cool in the pan for a few minutes. Once cooled, store in an airtight container.
 
-The recipe for these Pumpkin Banana Muffins was originally posted on [Beat Bake Eat](https://www.beatbakeeat.com/healthy-pumpkin-banana-muffins/).
+_The recipe for these Pumpkin Banana Muffins was originally posted on_ [_Beat Bake Eat_](https://www.beatbakeeat.com/healthy-pumpkin-banana-muffins/)_._
