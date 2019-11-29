@@ -6,7 +6,7 @@ categories:
 - desserts
 - buttercream
 - chocolate
-image: ''
+image: assets/images/choc-buttercream.JPG
 featured: false
 hidden: false
 
