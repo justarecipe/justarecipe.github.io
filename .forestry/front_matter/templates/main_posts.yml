@@ -38,6 +38,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/classic-white-cupcake-egg-free.md
 - _posts/2019-12-09-eggless-sugar-cookies.md
 - _posts/2019-11-29-chocolate-buttercream-frosting.md
 - _posts/2019-11-22-pumpkin-banana-muffins-egg-free.md
