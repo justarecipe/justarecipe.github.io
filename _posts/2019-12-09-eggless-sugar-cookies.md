@@ -6,8 +6,8 @@ categories:
 - eggless
 - dessert
 - cookies
-image: ''
-featured: false
+image: assets/images/eggless-sugar-cookies.JPG
+featured: true
 hidden: false
 
 ---
