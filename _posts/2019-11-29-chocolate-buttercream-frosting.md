@@ -6,7 +6,7 @@ categories:
 - desserts
 - buttercream
 - chocolate
-image: assets/images/choc-buttercream.JPG
+image: assets/images/white-vanilla-cupcakes-choc-frosting.JPG
 featured: false
 hidden: false
 
