@@ -36,3 +36,5 @@ Using a mixing stand and paddle attachment, add the water and egg replacer to th
 Once incorporated, add half the flour mixture to the mixing stand as it slows mixes. Then add all the milk. Then continue with the rest of the flour mixture. Mix until just combined, being careful not to overmix.
 
 Evenly pour the cupcake batter into the 12 cupcake liners. Bake for 18 minutes and do a toothpick test to make sure they're done. Let cool and then frost with a favorite buttercream, like this [Chocolate Buttercream Frosting](https://justarecipe.github.io/chocolate-buttercream-frosting/). 
+
+_The recipe for these Classic White Cupcakes was inspired by a recipe from_ [_Food Network Magazine_](https://www.foodnetwork.com/recipes/food-network-kitchen/go-to-vanilla-cupcakes-3338835)_._ 
