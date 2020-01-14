@@ -36,3 +36,5 @@ Heat olive oil in a nonstick skillet over medium-high heat. Add ground turkey an
 Stir until the spices are evenly coated on the ground turkey. Then add the chicken broth and tomato sauce, stirring well. Reduce heat to a simmer and cook for five minutes until the sauce is reduced, stirring occasionally.
 
 To prepare your tacos, microwave the flour tortilla shells for a few seconds to make them pliable and assemble with meat, shredded lettuce, shredded cheese and other taco topping favorites.
+
+_This recipe was inspired by_ [_Turkey Taco Lettuce Wraps_](https://www.cookingclassy.com/turkey-taco-lettuce-wraps/) _on Cooking Classy_.
