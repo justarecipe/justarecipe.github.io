@@ -11,7 +11,7 @@ featured: true
 hidden: false
 
 ---
-Time: 25 minutes; Yields: Four servings
+Time: 25 minutes; Yields: 4 servings
 
 _An easy weeknight meal using ground turkey, homemade taco seasoning, tortillas and your favorite taco toppings._
 
