@@ -7,7 +7,7 @@ categories:
 - weeknight meal
 - dinner
 image: assets/images/spicy-sesame-rice-bowl.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
