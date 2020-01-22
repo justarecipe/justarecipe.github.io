@@ -45,3 +45,5 @@ Once the rice is on and the beef and mushrooms are in the IP, slice the cucumber
 Once the IP timer beeps, do a Quick Release until all the pressure has been released. Remove lid and stir the beef and mushrooms.
 
 Assemble the rice bowls with cooked rice, beef and mushrooms, cucumber, spinach, and shredded carrots and then drizzle the bowl with the red pepper sauce set aside earlier. Top with sliced green onions or sesame seeds and serve immediately.
+
+_The recipe for these spicy rice bowls was originally posted on_ [_Good Housekeeping_](https://www.goodhousekeeping.com/food-recipes/a42379/spicy-sesame-rice-bowls-recipe/)_._ 
