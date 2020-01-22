@@ -6,7 +6,7 @@ categories:
 - instant pot
 - weeknight meal
 - dinner
-image: ''
+image: assets/images/spicy-sesame-rice-bowl.JPG
 featured: false
 hidden: false
 
