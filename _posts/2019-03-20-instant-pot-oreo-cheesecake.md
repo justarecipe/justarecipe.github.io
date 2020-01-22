@@ -9,9 +9,9 @@ categories:
 - instant pot
 - IP
 image: assets/images/oreo_cheesecake.JPG
-featured: true
+featured: false
 hidden: false
-date: 2019-03-20 22:01:14 -0400
+date: '2019-03-21T02:01:14.000+00:00'
 
 ---
 Time: 5 hours total (50 minutes active); Makes 6-8 servings
