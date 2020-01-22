@@ -7,7 +7,7 @@ categories:
 - pineapple
 - poblano peppers
 image: assets/images/pineapple-quesadilla-stacked-close.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
