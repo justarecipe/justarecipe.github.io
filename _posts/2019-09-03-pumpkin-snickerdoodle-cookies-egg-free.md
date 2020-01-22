@@ -9,7 +9,7 @@ categories:
 - egg-free
 - eggless
 image: assets/images/pumpkin-snickerdoodle-cookie.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
