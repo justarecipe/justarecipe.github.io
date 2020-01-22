@@ -33,9 +33,8 @@ INGREDIENTS FOR COOKIE DOUGH
 
 INGREDIENTS FOR SUGAR COATING
 
-1/4 cup white sugar
-
-1 tsp. pumpkin pie spice
+* 1/4 cup white sugar
+* 1 tsp. pumpkin pie spice
 
 Heat oven to 325 degrees. Line a baking tray with parchment paper and set aside.
 
