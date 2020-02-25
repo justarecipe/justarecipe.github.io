@@ -7,7 +7,7 @@ categories:
 - banana
 - muffin
 - healthyish
-image: assets/images/alina-karpenko-d8GDJalt_BE-unsplash.jpg
+image: assets/images/pumpkin-banana-muffins.JPG
 featured: false
 hidden: false
 
