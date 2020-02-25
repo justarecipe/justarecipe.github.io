@@ -8,7 +8,7 @@ categories:
 - muffin
 - healthyish
 image: assets/images/pumpkin-banana-muffins.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
