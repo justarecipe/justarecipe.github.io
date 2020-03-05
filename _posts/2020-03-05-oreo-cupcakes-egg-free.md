@@ -26,7 +26,7 @@ INGREDIENTS
 * 1 1/2 sticks sticks butter, melted
 * 2 tsp. vanilla extract
 * 1/2 cup milk
-* 8 Oreo cookies, crushed 
+* 9 Oreo cookies, crushed
 * 6 Oreo cookies, cut in half for topping (optional)
 
 Heat oven to 350. Place cupcake liners in a cupcake pan and set aside.
