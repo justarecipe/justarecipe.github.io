@@ -7,7 +7,7 @@ categories:
 - cupcakes
 - oreo
 image: assets/images/oreo-cupcake-1.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
