@@ -6,14 +6,14 @@ categories:
 - dessert
 - cupcakes
 - oreo
-image: ''
+image: assets/images/oreo-cupcake-1.JPG
 featured: false
 hidden: false
 
 ---
 Time: 45 minutes; Yields: 12 cupcakes
 
-_An Oreo twist on the classic white cupcake! Top it with a cookies & cream buttercream frosting for an indulgent treat._
+_An Oreo twist on the classic white cupcake! Top it with a cookies & cream buttercream frosting and Oreo halves (or a mini Oreo) for an indulgent treat._
 
 INGREDIENTS
 
@@ -26,7 +26,8 @@ INGREDIENTS
 * 1 1/2 sticks sticks butter, melted
 * 2 tsp. vanilla extract
 * 1/2 cup milk
-* 8 Oreos, crushed
+* 8 Oreo cookies, crushed 
+* 6 Oreo cookies, cut in half for topping (optional)
 
 Heat oven to 350. Place cupcake liners in a cupcake pan and set aside.
 
