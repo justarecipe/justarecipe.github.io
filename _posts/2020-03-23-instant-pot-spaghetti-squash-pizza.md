@@ -7,7 +7,7 @@ categories:
 - " weeknight dinner"
 - spaghetti squash
 - cheese
-image: ''
+image: assets/images/spaghetti-squash-pizza-1.JPG
 featured: false
 hidden: false
 
