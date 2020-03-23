@@ -8,7 +8,7 @@ categories:
 - spaghetti squash
 - cheese
 image: assets/images/spaghetti-squash-pizza-1.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
