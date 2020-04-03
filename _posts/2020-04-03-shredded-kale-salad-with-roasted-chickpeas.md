@@ -42,6 +42,6 @@ Pat chickpeas dry and place in a small bowl. Add olive oil, garlic powder, Parme
 
 In a medium bowl, add olive oil, lemon juice, Worcestershire sauce, Dijon mustard, garlic powder, salt and pepper. Whisk the dressing until well incorporated. In a large bowl, add the kale greens and dressing, using your fingers to massage the greens and dressing, adding a bit more dressing as you go so that it's coated to your liking.
 
-Top with roasted chickpeas and freshly shredded Parmesan. Serve immediately.
+Divide into two portions and top with roasted chickpeas and freshly shredded Parmesan. Serve immediately.
 
 _The recipe for this Shredded Kale Salad with Roasted Chickpeas was inspired by_ [_Simple Health Kitchen_](https://www.simplehealthykitchen.com/kale-caesar-salad-parmesan-roasted-chickpeas/)_._
