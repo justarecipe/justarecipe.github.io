@@ -8,7 +8,7 @@ categories:
 - chickpeas
 - garbanzo beans
 - parmesan
-image: ''
+image: assets/images/kale-roasted-garbanzo-beans-salad-overnight.JPG
 featured: false
 hidden: false
 
@@ -40,6 +40,8 @@ Heat oven to 375 degree. Line baking sheet with parchment paper and set aside.
 
 Pat chickpeas dry and place in a small bowl. Add olive oil, garlic powder, Parmesan, salt and pepper, and mix until evenly coated. Place chickpeas on lined baking sheet in a single layer. Bake 40 minutes, tossing halfway through until crispy.
 
-In a medium bowl, add olive oil, lemon juice, Worcestershire sauce, Dijon mustard, garlic powder, salt and pepper. Whisk the dressing until well incorporated. In a large bowl, add the kale greens and dressing, using your fingers to massage the greens and dressing, adding a bit more dressing as you go so that it's coated to your liking. 
+In a medium bowl, add olive oil, lemon juice, Worcestershire sauce, Dijon mustard, garlic powder, salt and pepper. Whisk the dressing until well incorporated. In a large bowl, add the kale greens and dressing, using your fingers to massage the greens and dressing, adding a bit more dressing as you go so that it's coated to your liking.
 
 Top with roasted chickpeas and freshly shredded Parmesan. Serve immediately.
+
+_The recipe for this Shredded Kale Salad with Roasted Chickpeas was inspired by_ [_Simple Health Kitchen_](https://www.simplehealthykitchen.com/kale-caesar-salad-parmesan-roasted-chickpeas/)_._
