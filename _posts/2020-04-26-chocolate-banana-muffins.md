@@ -43,3 +43,5 @@ Made an indent in the dry ingredients and pour wet ingredients into the large bo
 Use a cookie scoop to evenly scoop the batter into the prepared muffin pan. Top with more chocolate chips if you please.
 
 Bake at 325 for 22 to 25 minutes, using the toothpick test to make sure they're done. Once cooled, store in an airtight container.
+
+_This recipe was inspired by a Chocolate Banana Muffins recipe on_ [_Well Plated_](https://www.wellplated.com/chocolate-banana-muffins/)_._ 
