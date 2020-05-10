@@ -7,7 +7,7 @@ categories:
 - sunflower butter
 - chocolate
 - oats
-image: assets/images/sunflower-butter-energy-ball.jpg
+image: assets/images/sunflower-butter-energy.jpg
 featured: true
 hidden: false
 
