@@ -7,7 +7,7 @@ categories:
 - bread machine
 - dinner
 image: assets/images/pep-pizza.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
