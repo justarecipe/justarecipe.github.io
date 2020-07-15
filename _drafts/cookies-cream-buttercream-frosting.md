@@ -7,7 +7,7 @@ categories:
 - buttercream
 - frosting
 - oreo
-image: ''
+image: assets/images/oreo-buttercream-frosting.JPG
 featured: false
 hidden: false
 
