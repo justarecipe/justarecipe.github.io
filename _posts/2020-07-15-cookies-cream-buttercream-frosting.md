@@ -29,4 +29,4 @@ This recipe requires using a stand mixer and paddle attachment or a large bowl a
 
 Add the powdered sugar a little at a time, making sure to not create a puff of powdered sugar and mix on a slow speed. Continuing with the slow speed, add the milk, salt and vanilla extract. Mix in the finely crushed Oreo cookies.
 
-Once all the ingredients are added to the mixer or bowl, increase the mix speed to high and beat for 3 to 5 minutes. Pipe onto cupcakes
+Once all the ingredients are added to the mixer or bowl, increase the mix speed to high and beat for 3 to 5 minutes. Pipe onto cupcakes or cakes as needed!
