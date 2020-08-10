@@ -7,8 +7,8 @@ categories:
 - weeknight meal
 - beef
 - jalapeno
-image: ''
-featured: false
+image: assets/images/jalapeno-beef-chili.JPG
+featured: true
 hidden: false
 
 ---
@@ -19,7 +19,7 @@ _Fresh jalapenos, ground beef and smoked paprika come together in a quick, one-p
 INGREDIENTS
 
 * 1/2 Tbsp. olive oil
-* 1  yellow onion, diced
+* 1 yellow onion, diced
 * 2 jalapenos, seeded and diced
 * 1 green pepper, diced
 * 4 garlic cloves, minced
@@ -27,7 +27,7 @@ INGREDIENTS
 * 1 Tbsp. chili powder
 * 1 Tbsp. cumin
 * 1 tsp. smoked paprika
-* 1/2 tsp. salt 
+* 1/2 tsp. salt
 * 1/4 tsp. cayenne pepper
 * 7 oz. tomato sauce
 * 14.5 oz. can fire roasted diced tomatoes
@@ -43,4 +43,4 @@ Once beef is browned, add the spices (chili powder, cumin, smoked paprika, salt,
 
 Simmer for 25 minutes, stirring often, over low heat. Top each bowl with sliced jalapenos and sour cream, if desired.
 
-This recipe was inspired by [Cafe Delites](https://cafedelites.com/beef-bean-jalapeno-chili/). 
+This recipe was inspired by [Cafe Delites](https://cafedelites.com/beef-bean-jalapeno-chili/).
