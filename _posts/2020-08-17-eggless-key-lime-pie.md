@@ -9,7 +9,7 @@ categories:
 - lime
 - pie
 image: assets/images/eggfree-key-lime-pie.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
@@ -35,7 +35,7 @@ Heat oven to 350. In a medium bowl, combine the melted butter, crushed graham cr
 
 While the crust bakes, begin making the filling. In a small bowl, mix together the cornstarch and cold water. In a large bowl, add sweetened condensed milk and sour cream. Whisk until combined. Then add lime juice and cornstarch mixture. Mix until well blended and set aside for 5 minutes to allow the filling to thicken. 
 
-If the baked crust is still too warm, pop it in the freezer for a few minutes while the filling rests. Then pour the filling into the cooled pie crust. Bake for 15 minutes at 350 or until barely set. Cool on a wire rack. To store, place in refrigerator with plastic wrap over top. Refrigerate overnight and serve with whipped cream. 
+If the baked crust is still too warm, pop it in the freezer for a few minutes while the filling rests. Then pour the filling into the cooled pie crust. Bake for 15 minutes at 350 or until barely set. Cool on a wire rack and then place in refrigerator with plastic wrap over top. Refrigerate overnight and serve with whipped cream. 
 
 _*Persian limes are the standard lime available at most grocery stores in the U.S. Key lime aficionados probably have some opinions on using freshly squeezed Persian limes._ 
 
