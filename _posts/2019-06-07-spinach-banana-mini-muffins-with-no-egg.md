@@ -9,13 +9,13 @@ categories:
 - egg-free
 - no egg
 image: assets/images/banana-spinach-muffin.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
 Time: 40 minutes; Yields 24 mini muffins
 
-An easy egg-free and tasty recipe for toddlers and adults alike. Spinach + bananas + flaxseed meal as an egg substitute results in seriously yummy mini muffins.
+_An easy egg-free and tasty recipe for toddlers and adults alike. Spinach + bananas + flaxseed meal as an egg substitute results in seriously yummy mini muffins._
 
 INGREDIENTS
 
@@ -33,7 +33,7 @@ INGREDIENTS
 * 2 extra ripe bananas
 * 2 tsp. vanilla
 
-Heat oven to 375 and grease mini muffin pan. 
+Heat oven to 375 and grease mini muffin pan.
 
 Create the flax egg by mixing the ground flaxseed and water in a small bowl. Let rest for 5 minutes to thicken.
 
