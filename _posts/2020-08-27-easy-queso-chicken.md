@@ -7,7 +7,7 @@ categories:
 - weeknight meal
 - chicken
 image: assets/images/easy-queso-chicken.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
@@ -37,3 +37,5 @@ Cook rice on stovetop according to package directions.
 When approaching the 30 minutes of marinating, heat the oven to 350 degrees. Combine chili powder, cumin, paprika, garlic powder and onion powder in a small bowl and mix. Remove chicken from the bag and pat dry. Place chicken in a 9x9 baking pan and sprinkle mixed spices over top chicken. Top chicken with Rotel tomatoes & green chilies and queso. 
 
 Place queso chicken in the oven and bake for 30 minutes or until chicken has reached internal temperature of 165. Serve queso chicken overtop rice.
+
+_This recipe was inspired by_ [_Butter & Baggage_](https://www.butterandbaggage.com/queso-chicken/)_._ 
