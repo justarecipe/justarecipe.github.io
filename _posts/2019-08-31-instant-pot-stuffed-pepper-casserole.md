@@ -8,7 +8,7 @@ categories:
 - instant pot
 - healthy
 - peppers
-image: assets/images/stuffed-pepper-casserole-IP.JPG
+image: assets/images/stuffed-pepper-casserole-corrected.jpg
 featured: false
 hidden: false
 
@@ -33,7 +33,7 @@ INGREDIENTS
 * 1 tsp. salt
 * 1 cup freshly shredded mozzarella
 
-Set your Instant Pot to saute. Add the olive oil and then the ground turkey. Brown for a few minutes then add in the diced peppers, garlic and onion.
+Set your Instant Pot to saute. Add the olive oil and then the ground turkey. Brown for a few minutes then add in the diced peppers, garlic and onion, until softened. 
 
 Turn the IP off. Leave ground turkey at the bottom of the pot and pour over top it the diced chiles, spaghetti sauce, fire-roasted tomatoes, white rice, beef broth, chili powder, and salt. Don't stir. Just close the lid. The broth should have all the rice and everything else covered.
 
