@@ -12,7 +12,7 @@ featured: false
 hidden: false
 
 ---
-Time: 5 minutes; Yields: 2 small smoothies
+Time: 5 minutes; Yields: 2 small smoothies (or 1 large smoothie)
 
 _Frozen cherries and cocoa powder swirl together for an healthy cool treat._
 
