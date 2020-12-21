@@ -9,7 +9,7 @@ categories:
 - egg-free
 - eggless
 image: assets/images/pumpkin-pancakes.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
