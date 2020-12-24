@@ -6,8 +6,8 @@ categories:
 - dessert
 - cookies
 - icing
-image: ''
-featured: false
+image: assets/images/royal-icing.JPG
+featured: true
 hidden: false
 
 ---
