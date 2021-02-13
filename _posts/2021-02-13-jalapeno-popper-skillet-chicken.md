@@ -9,7 +9,7 @@ categories:
 - skillet
 - jalapeno
 image: assets/images/jalapeno-popper-skillet-chicken-dinner.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
