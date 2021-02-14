@@ -9,7 +9,7 @@ categories:
 - shortbread
 - dark chocolate
 image: assets/images/choc-heart-cookies.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
