@@ -9,8 +9,8 @@ categories:
 - drinks
 - greek yogurt
 - oatmilk
-image: ''
-featured: false
+image: assets/images/orange-vanilla-creamsicle-smoothie.JPG
+featured: true
 hidden: false
 
 ---
