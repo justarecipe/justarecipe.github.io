@@ -27,4 +27,4 @@ INGREDIENTS
 
 In a standing mixer, add the sunbutter and cocoa powder. Cream together until smooth. Add in the brown sugar, coconut flour, vanilla and mix until dough-like. Add in the chocolate chips and mix.
 
-Meanwhile place parchment paper on a clean countertop or table. Remove bowl from the mixing stand and scrap brownie bite dough onto the parchment paper. Place another sheet of parchment paper over top the dough. Use a rolling pin and roll until it's an even 1/2 inch thick. Use a dough cutter/scraper to 
+Meanwhile place parchment paper on a clean countertop or table. Remove bowl from the mixing stand and scrap brownie bite dough onto the parchment paper. Place another sheet of parchment paper over top the dough. Use a rolling pin and roll until it's an even 1/2 inch thick. Remove the top parchment paper. Use a dough cutter/scrape to cut small brownie squares. Store in an airtight container in the refrigerator for 3 days. 
