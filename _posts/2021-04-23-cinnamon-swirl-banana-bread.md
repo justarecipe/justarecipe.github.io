@@ -8,11 +8,11 @@ categories:
 - quick bread
 - cinnamon
 image: assets/images/banana-bread-cinn-swirl.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
-Time:  1 hour 30 minutes Yields: 1 loaf 
+Time:  1 hour 30 minutes; Yields: 1 loaf 
 
 _Sweet cinnamon swirls delight in a moist banana quick bread!_
 
