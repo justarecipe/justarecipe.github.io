@@ -14,7 +14,7 @@ hidden: false
 ---
 Time: 4 hours; Yields: 12 donuts plus donut holes
 
-These homemade donuts use a few vegan tricks - aquafaba and ground flaxseed - to fry up the perfect eggless donut. 
+These homemade donuts use a few vegan tricks - aquafaba and ground flaxseed - to fry up the perfect eggless donut.
 
 INGREDIENTS FOR DONUTS
 
@@ -35,4 +35,4 @@ INGREDIENTS FOR GLAZE
 * 2 Tbsp. milk
 * 1/2 tsp. vanilla
 
-Whisk together powdered sugar, milk and vanilla. Once the glaze is smooth and the donuts cool, apply the glaze with pastry
+Whisk together powdered sugar, milk and vanilla. Once the glaze is smooth and the donuts cool, apply the glaze with pastry brush. Set on a wire rack to harden and save in an airtight container — or eat immediately! 
