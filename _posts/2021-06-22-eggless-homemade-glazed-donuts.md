@@ -8,7 +8,7 @@ categories:
 - breakfast
 - dessert
 image: assets/images/eggless-glazed-donut.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
