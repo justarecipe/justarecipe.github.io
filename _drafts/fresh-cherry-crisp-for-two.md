@@ -13,4 +13,8 @@ hidden: false
 ---
 Time: 45 minutes; Yields: 2 servings
 
-A summertime treat that features fresh bing cherries and sweet oat topping!
+_A summertime treat that features fresh bing cherries and sweet oat topping!_
+
+INGREDIENTS
+
+XX fresh bing cherries, pitted
