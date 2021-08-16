@@ -13,7 +13,7 @@ featured: true
 hidden: false
 
 ---
-Time: 5 minutes; Yields:
+Time: 5 minutes
 
 _A tasty, healthy chocolate dip that satisfies a sweet tooth craving! This quick recipe uses black beans, dark cocoa powder, maple syrup and sunbutter to swirl up the perfect brownie batter dip._
 
@@ -31,4 +31,6 @@ INGREDIENTS
 
 In a Vitamix, add the black beans, quick oats, maple syrup, sunbutter, cocoa powder, vanilla, butter extract and salt. Secure the lid and start the blender on low, allowing the batter to churn. Slowly increase the speed until completely smooth.
 
-Scrape batter from Vitamix and add in chocolate chips. Store refrigerated in an airtight container. 
+Scrape batter from Vitamix and add in chocolate chips. Store refrigerated in an airtight container.
+
+\*you can substitute a nut butter for sunbutter if no allergies are concerned. Avoid peanut butter though as its flavor profile is strong enough to make it peanut butter brownie batter dip. 
