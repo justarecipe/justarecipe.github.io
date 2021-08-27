@@ -47,4 +47,4 @@ In a small bowl, add the cherries, sugar, cornstarch, lemon juice and vanilla ex
 
 In a small bowl, add the oats, flours, brown sugar, cinnamon and salt. Mix together. Add the melted butter and mix again. Evenly distribute the oat topping over the cherries mixture.
 
-Bake for 20 minutes. Eat 
+Bake for 20 minutes. Let cool for 10 minutes and enjoy!
