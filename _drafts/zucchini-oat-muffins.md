@@ -7,7 +7,7 @@ categories:
 - eggless
 - zucchini
 - oats
-image: ''
+image: assets/images/zucchini-oat-muffins.JPG
 featured: false
 hidden: false
 
