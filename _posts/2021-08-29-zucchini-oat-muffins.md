@@ -40,3 +40,5 @@ In a large bowl, add the flour, oats, baking powder, baking soda, salt and cinna
 Add the wet ingredients to the dry and stir well until combined. Scoop the batter into the prepared muffin tray, making sure to keep the batter amounts equal across the 12 holes. Top with a few more oats if desired.
 
 Bake at 350 for 20-22 minutes or until it passes the toothpick test. Let cool in the pan and then let cool completely on a wire tray. Enjoy and store in an airtight container for a few days.
+
+\*This recipe works well with egg replacers like Ener-G Egg Replacer.
