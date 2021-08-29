@@ -8,7 +8,7 @@ categories:
 - zucchini
 - oats
 image: assets/images/zucchini-oat-muffins.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
@@ -37,4 +37,6 @@ In a medium bowl, add the zucchini, sugars, oil, eggs and vanilla. Whisk ingredi
 
 In a large bowl, add the flour, oats, baking powder, baking soda, salt and cinnamon. Whisk together until incorporated.
 
-Add the wet ingredients to the dry and stir well until combined. Scoop the batter into the prepared muffin tray, making sure to keep the batter amounts equal across the 12 holes. Top with a few more 
+Add the wet ingredients to the dry and stir well until combined. Scoop the batter into the prepared muffin tray, making sure to keep the batter amounts equal across the 12 holes. Top with a few more oats if desired.
+
+Bake at 350 for 20-22 minutes or until it passes the toothpick test. Let cool in the pan and then let cool completely on a wire tray. Enjoy and store in an airtight container for a few days.
