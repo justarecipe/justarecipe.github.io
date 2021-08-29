@@ -12,7 +12,7 @@ featured: true
 hidden: false
 
 ---
-Time: 40 minutes: Yields: 12 muffins
+Time: 35 minutes: Yields: 12 muffins
 
 Zucchini, oats, cinnamon and brown sugar bake up into moist, tasty muffins!
 
