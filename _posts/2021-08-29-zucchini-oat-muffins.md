@@ -4,7 +4,6 @@ title: Zucchini Oat Muffins
 author: Chris
 categories:
 - muffins
-- eggless
 - zucchini
 - oats
 image: assets/images/zucchini-oat-muffins.JPG
@@ -14,7 +13,7 @@ hidden: false
 ---
 Time: 35 minutes: Yields: 12 muffins
 
-Zucchini, oats, cinnamon and brown sugar bake up into moist, tasty muffins!
+_Zucchini, oats, cinnamon and brown sugar bake up into moist, tasty muffins!_
 
 INGREDIENTS
 
@@ -42,3 +41,5 @@ Add the wet ingredients to the dry and stir well until combined. Scoop the batte
 Bake at 350 for 20-22 minutes or until it passes the toothpick test. Let cool in the pan and then let cool completely on a wire tray. Enjoy and store in an airtight container for a few days.
 
 \*This recipe works well with egg replacers like Ener-G Egg Replacer.
+
+_This recipe was inspired by_ [_Graceful Little Honey Bee_](https://www.gracefullittlehoneybee.com/zucchini-oatmeal-muffins/#recipe)_._  
