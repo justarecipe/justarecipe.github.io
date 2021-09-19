@@ -6,7 +6,7 @@ categories:
 - banana
 - chocolate
 image: assets/images/chocolate-chip-banana-bars.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
