@@ -6,7 +6,7 @@ categories:
 - quick bread
 - eggless
 - eggfree
-image: ''
+image: assets/images/pawpaw-bread.jpg
 featured: false
 hidden: false
 
