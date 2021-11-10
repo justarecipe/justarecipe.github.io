@@ -8,13 +8,13 @@ categories:
 - cookies
 - dessert
 image: assets/images/eggless-choc-chip-cookies.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
 Time: 50 minutes; Yields: 2 dozen cookies
 
-_Hands down, the best eggless chocolate chips ever! Soft and chewy with chocolate in every bite._ 
+_Hands down, the best eggless chocolate chips ever! Soft and chewy with a chocolate morsel in every bite._
 
 * 2 1/2 cups all-purpose flour
 * 1/2 tsp. baking soda
@@ -36,4 +36,10 @@ In a standing mixer bowl, add the butter and sugars. Beat on medium speed until 
 
 Add the dry ingredients to the mixing bowl, one spoonful at a time while the mixer is on low. Mix until just combined. Add the chocolate chips. Mix again on low until just combined.
 
-Use a cookie dough scoop to place uniform cookies on the prepared parchment-lined cookie sheet. Bake for 10 minutes until just golden brown on the edges. Remove from sheet and transfer to wire rack to cool. 
+Use a cookie dough scoop to place uniform cookies on the prepared parchment-lined cookie sheet. Bake for 10 minutes until just golden brown on the edges. Remove from sheet and transfer to wire rack to cool.
+
+Store in an airtight container at room temperature. 
+
+\*If you have chocolate bars lying around, chop up the chocolate bar and add those pieces as part of the 2 cups of chocolate chips. 
+
+_This recipe was inspired by_ [_Mommy's Home Cooking_](https://mommyshomecooking.com/the-best-eggless-chocolate-chip-cookies/#recipe)_._ 
