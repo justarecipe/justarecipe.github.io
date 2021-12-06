@@ -16,7 +16,7 @@ hidden: false
 ---
 Time: XX Yields: 12 cupcakes
 
-Tasty and indulgent eggless cupcakes with flavors of maple and marshmallow.
+_Tasty and indulgent eggless cupcakes with flavors of maple and marshmallow._
 
 FOR THE CUPCAKE BATTER
 
