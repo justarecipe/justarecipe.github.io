@@ -47,4 +47,10 @@ Turn stand mixer to low speed and add the flour mixture / milk in three batches.
 
 Bake for 18 to 20 minutes, or until the toothpick comes out clean. Let cool on a wire rack while you prepare the Marshmallow Buttercream.
 
-To make the Marshmallow Buttercream, heat a small saucepan over medium heat. 
+To make the Marshmallow Buttercream, heat a small saucepan over medium heat. Add marshmallows and milk, stirring often, until the marshmallows are completely melted and the marshmallow cream is uniform. Remove from heat and let cool, about 10 to 15 minutes. 
+
+Using a stand mixer, add the butter to the bowl and beat on medium-high speed. Scrape in the marshmallow cream and add the vanilla extract. Beat together on high speed, about 2 minutes. Scrape down as needed. 
+
+Slowly add in the powdered sugar. Once fully incorporated, place marshmallow buttercream in pastry bags and use your favorite decorating tips to top the cooled cupcakes.
+
+BONUS: I added some white chocolate cupcake toppers. To make these, melt together about 4 ounces of white melting chocolate and stir in 1/2 tsp. maple extract. Mix together by hand and transfer to a pastry bag or specialty squeeze bottle. Cut a small tip at the bottom of the pastry bag, and
