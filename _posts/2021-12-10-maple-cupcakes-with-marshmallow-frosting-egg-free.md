@@ -10,7 +10,7 @@ categories:
 - marshmallows
 - maple
 image: assets/images/maple-cupcakes-marshmallow-icing.JPG
-featured: false
+featured: true
 hidden: false
 
 ---
@@ -25,8 +25,8 @@ FOR THE CUPCAKE BATTER
 * 1/4 tsp. salt
 * 3/4 cup whole milk
 * 1 Tbsp. apple cider vinegar
-* 1 cup maple syrup, room temperature
-* 1/2 cup unsalted butter, room temperature
+* 1 cup maple syrup, **room temperature**
+* 1/2 cup unsalted butter, **room temperature**
 * 1 tsp. maple extract
 
 MARSHMALLOW BUTTERCREAM
@@ -41,7 +41,7 @@ Heat oven to 350. Lined the cupcake tray with liners and set aside.
 
 In a large bowl, sift together the flour, baking powder and salt. In a separate bowl, combine the milk and apple cider vinegar. Set both aside.
 
-Using a stand mixer, add the butter to the bowl and beat on medium-high speed until creamy, about 3 minutes. Add the maple syrup and beat on high speed until well combined. The ingredients need to be a room temperature to properly mix. Scrape down the sides with a spatula. Add the maple extract and beat again until combined.
+Using a stand mixer, add the butter to the bowl and beat on medium-high speed until creamy, about 3 minutes. Add the maple syrup and beat on high speed until well combined. The ingredients **need to be a room temperature to properly mix.** Scrape down the sides with a spatula. Add the maple extract and beat again until combined.
 
 Turn stand mixer to low speed and add the flour mixture / milk in three batches. (Flour followed by milk, flour, milk, flour). Mix until just combined. Avoid overmixing. Divide batter evenly into the 12 prepared cupcake liners.
 
@@ -51,6 +51,10 @@ To make the Marshmallow Buttercream, heat a small saucepan over medium heat. Add
 
 Using a stand mixer, add the butter to the bowl and beat on medium-high speed. Scrape in the marshmallow cream and add the vanilla extract. Beat together on high speed, about 2 minutes. Scrape down as needed. 
 
-Slowly add in the powdered sugar. Once fully incorporated, place marshmallow buttercream in pastry bags and use your favorite decorating tips to top the cooled cupcakes.
+Slowly add in the powdered sugar and then increase the speed to medium-high for a minute. Place marshmallow buttercream in pastry bags and use your favorite decorating tips to top the cooled cupcakes.
 
-BONUS: I added some white chocolate cupcake toppers. To make these, melt together about 4 ounces of white melting chocolate and stir in 1/2 tsp. maple extract. Mix together by hand and transfer to a pastry bag or specialty squeeze bottle. Cut a small tip at the bottom of the pastry bag, and
+**BONUS**: I added some white chocolate cupcake toppers. To make these, melt together about 4 ounces of white melting chocolate as directed on the packaging. While the chocolate is melting, prepare a clean, flat workspace with a sheet of parchment paper. Once the chocolate is melted, stir in 1/2 tsp. maple extract. Mix together by hand and transfer to a pastry bag or specialty squeeze bottle. Cut a small tip at the bottom of the pastry bag. Use the tip to create seasonal shapes — like snowflakes or Christmas trees — or whatever shape you desire.
+
+Place the chocolate shapes in the fridge to cool and harden, about 10 to 20 minutes. Place the finished shapes atop the frosted cupcakes. 
+
+_This recipe was inspired by my son's love of maple and marshmallows, a vanilla eggless recipe from_ [_Mommy's Home Cooking_](https://mommyshomecooking.com/eggless-vanilla-cupcakes/) _and buttercream recipe from_ [_A Big Green House_](https://abiggreenhouse.com/marshmallow-buttercream-frosting-with-marshmallows/)_.  The toppers were inspired by_ [_LindseyBakedThis._](https://www.instagram.com/lindseybakedthis/?hl=en)
