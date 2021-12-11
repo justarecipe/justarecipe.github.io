@@ -9,12 +9,12 @@ categories:
 - eggfree
 - marshmallows
 - maple
-image: ''
+image: assets/images/maple-cupcakes-marshmallow-icing.JPG
 featured: false
 hidden: false
 
 ---
-Time: XX Yields: 12 cupcakes
+Time: 1 hour Yields: 12 cupcakes
 
 _Tasty and indulgent eggless cupcakes with flavors of maple and marshmallow._
 
@@ -33,7 +33,7 @@ MARSHMALLOW BUTTERCREAM
 
 * 2 cups mini marshmallows
 * 1 Tbsp. milk
-* 1 cup butter
+* 1 cup butter, softened
 * 1 tsp. vanilla
 * 2 1/4 cup powdered sugar
 
@@ -43,4 +43,8 @@ In a large bowl, sift together the flour, baking powder and salt. In a separate 
 
 Using a stand mixer, add the butter to the bowl and beat on medium-high speed until creamy, about 3 minutes. Add the maple syrup and beat on high speed until well combined. The ingredients need to be a room temperature to properly mix. Scrape down the sides with a spatula. Add the maple extract and beat again until combined.
 
-Turn stand mixer to low speed and add the flour mixture / milk in three batches. (Flour followed by milk,
+Turn stand mixer to low speed and add the flour mixture / milk in three batches. (Flour followed by milk, flour, milk, flour). Mix until just combined. Avoid overmixing. Divide batter evenly into the 12 prepared cupcake liners.
+
+Bake for 18 to 20 minutes, or until the toothpick comes out clean. Let cool on a wire rack while you prepare the Marshmallow Buttercream.
+
+To make the Marshmallow Buttercream, heat a small saucepan over medium heat. 
