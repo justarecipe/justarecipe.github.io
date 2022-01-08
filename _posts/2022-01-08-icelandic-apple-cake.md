@@ -35,7 +35,7 @@ In a medium bowl, combine apple slices, sugar and cinnamon. Mix until sugar and 
 
 In a large bowl, add flour, white sugar, baking powder and salt. Set aside.
 
-In a medium bowl, 
+In a medium bowl, mix together the warm milk, egg, melted butter and vanilla extract. Add the wet ingredients to the flour mixture and stir to combine.
 
 add flour and baking powder. Whisk to combine and set aside.
 
