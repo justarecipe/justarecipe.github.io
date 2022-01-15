@@ -15,7 +15,7 @@ Time: 5 minutes; Yields: 16-20 servings
 _A quick and easy recipe for homemade hot chocolate mix!_
 
 * 2 cups powered sugar
-* 1 cup unsweetened cocoa powder (Dutch-process)
+* 1 cup unsweetened cocoa powder (Dutch process)
 * 2 cups nonfat dry milk powder
 * 1/2 tsp. salt
 * 7 oz. dark chocolate bar, roughly broken into smaller pieces
