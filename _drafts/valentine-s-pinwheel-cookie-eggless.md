@@ -31,4 +31,6 @@ In a standing mixer, beat together the butter, sugar, cream cheese and salt at m
 
 Reduce speed to low. Slowly add in the flour mixture in three separate batches, allowing time for the flour to incorporate before adding more.  Once incorporated, place dough on a clean, flat surface. Divide into three equal parts.
 
-Shape one third of the dough into a disc. Wrap in plastic wrap and place in the refrigerator. Add another third of the dough back to the standing mixer. Add a few drops of red food coloring to create the pink layer. Gather the pink dough and shape into a disc. Wrap in plastic wrap and place in the fridge. Add the remaining third to the standing mixer. Add an greater amount of red food coloring and mix again to create the red layer. Shape the disk, wrap in plastic, and place in the refrigerator. 
+Shape one third of the dough into a disc. Wrap in plastic wrap and place in the refrigerator. Add another third of the dough back to the standing mixer. Add a few drops of red food coloring to create the pink layer. Gather the pink dough and shape into a disc. Wrap in plastic wrap and place in the fridge. Add the remaining third to the standing mixer. Add an greater amount of red food coloring and mix again to create the red layer. Shape the disk, wrap in plastic, and place in the refrigerator. Refrigerate all dough disks for 1 hour.
+
+Remove 
