@@ -28,7 +28,7 @@ INGREDIENTS
 * 1/4 cup white sugar
 * 3/4 cup sunbutter
 * 1 tsp. vanilla
-* 24 Hershey's chocolate kiss, unwrapped
+* 24 Hershey's chocolate kiss, unwrapped*
 * white sugar or colored sanding sugar for coating
 
 In a medium bowl, add the flour, baking soda and salt. Whisk together and set aside.
@@ -40,5 +40,7 @@ Slowly add the flour mixture to the standing mixer bowl. Mix on low until just c
 Once the 30 minute approaches, heat oven to 350. Prep two baking sheets with parchment paper. Pour sanding sugar(s) in a bowl(s). Use a cookie scoop to gather even amounts of dough and roll into a ball. Evenly roll the cookie dough balls in the sugar and place on the baking sheet. Bake for 10-11 minutes. 
 
 Remove from oven and immediately top each cookie with a Hershey's kiss. Move the cookies to a cooling rack. Store in an airtight container.
+
+\*If you are baking these cookies for someone with a nut allergy, be sure to triple check the Hershey's kiss bag for any allergen warnings. 
 
 _This post was inspired by Peanut Butter Blossoms by_ [_Sally's Baking Addiction_](https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/) _and my son's love for sunbutter._
