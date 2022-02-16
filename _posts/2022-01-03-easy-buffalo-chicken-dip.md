@@ -7,14 +7,14 @@ categories:
 - dip
 - chicken
 - buffalo sauce
-image: ''
+image: assets/images/easy-buffalo-chicken-dip.jpg
 featured: false
 hidden: false
 
 ---
 Time: 20 minutes; Yields: 10+ servings
 
-_A super quick and easy appetizer that will please buffalo wing fans everywhere! Franks Red Hot Buffalo Sauce, Hidden Valley Ranch, canned chicken and some cheesy goodness swirl together for a hot buffalo chicken dip, best served with celery and pretzel bites!_
+_A super quick and easy appetizer that will please buffalo sauce fans everywhere! Franks Red Hot Buffalo Sauce, Hidden Valley Ranch, canned chicken and some cheesy goodness swirl together for a hot buffalo chicken dip, best served with celery and pretzel bites!_
 
 * 2 10 ounce chunk chicken, drained
 * 3/4 cup Franks Red Hot Buffalo Sauce
