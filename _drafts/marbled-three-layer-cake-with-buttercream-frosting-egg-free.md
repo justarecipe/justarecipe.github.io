@@ -26,7 +26,7 @@ INGREDIENTS FOR CAKE
 * 3/4 tsp. salt
 * 2 1/4 cup milk
 * 2 1/4 Tbsp. apple vinegar
-* 1 1/8 cups unsalted butter
+* 1 1/8 cups unsalted butter, softened 
 * 2 1/4  cup sugar
 * 3 tsp. vanilla
 * 1/2 cup water
@@ -42,11 +42,20 @@ INGREDIENTS FOR BUTTERCREAM FROSTING
 
 To make the cake, prep three 8-inch round cake pans with parchment paper and baking spray (like [Pam Baking Spray](https://www.pamcookingspray.com/products/baking)) Set aside. Heat oven to 350.
 
-In a large bowl, add the flour
+In a large bowl, add the flour, baking powder, baking soda and salt. Whisk together and set aside.
+
+In a small mixing bowl, add the apple vinegar and milk. Set aside and allow the mixture to get to room temperature. The liquid should thicken and curdle, which is essential for the eggless cake to bake properly.
+
+In a standing mixer, add the butter and sugar. Beat together on medium-high speed. Scrape down the bowl, add the vanilla, and continue beating. 
+
+Slow the speed to low and add one third of the flour mixture. Mix well and stop the mixer to scrape down the bowl. Add half the milk mixture and continue mixing on low. Stop the mixer to scrape down the bowl. Add another third of the flour mixture and mix. Scrape down the bowl. Add the remaining milk mixture and mix on low. Stop and scrape down the bowl. Add the remaining flour mixture and mix until just combined. _There's ALOT of cake batter with this recipe so it's important at each interval to make sure the ingredients are getting fully mixed with no clumps at the bottom or on the sides of the bowl._
+
+In a separate bowl, stir together hot water and unsweetened cocoa powder. Add about a third of the cake batter mix to the cocoa mixture. Fold in the cocoa completely to finish the chocolate cake batter. 
+
+Gather the prepped cake pans and begin pouring the vanilla cake batter at the bottom, aiming for equal amounts in all three pans. Add a layer of chocolate cake mix. Add the remaining vanilla mix and top again with remaining chocolate. No need to swirl the different batters to create the marbled effect. 
+
+Bake for 40 minutes or until the cakes pass the toothpick test. 
+
+ 
 
 _This recipe was originally inspired by_ [_Mommy's Home Cooking_](https://mommyshomecooking.com/eggless-marble-cake/)_._
-
-* Reduce speed to low and add half of the flour mixture. Scrape down the mixing bowl with a spatula and turn the batter over several times to ensure all of the ingredients are well incorporated. Add milk mixture; continue beating to incorporate. Add the remaining flour; beat just until combined. Do not overmix this batter. The batter will be slightly thick, and a few lumps are okay.
-* Stir together hot water, cocoa and instant coffee powder (if using) until smooth and well combined.
-* Take one-third of the vanilla batter and place it in a small bowl. Fold the cocoa mixture into the batter until blended.
-* Spread a cup of vanilla batter in the bottom of the pan. Dollop on half of the chocolate batter, then repeat with another heaping cup of vanilla batter, the remainder of the chocolate, and top with the rest of the vanilla batter. NOTE: There’s no need to swirl the batters together to get a marbled effect.
