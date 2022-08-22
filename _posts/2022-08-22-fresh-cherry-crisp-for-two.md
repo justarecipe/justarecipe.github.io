@@ -17,29 +17,18 @@ _A summertime treat that features fresh bing cherries and sweet oat topping!_
 
 INGREDIENTS
 
-1 1/4 cup fresh bing cherries, pitted
-
-1 1/2 Tbsp. sugar
-
-1/2 Tbsp. cornstarch
-
-3/4 tsp. lemon juice
-
-1/8 tsp. vanilla extract
-
-1/4 cup rolled oats
-
-1 1/2 Tbsp. all-purpose flour
-
-1 1/2 Tbsp. whole wheat flour
-
-2 Tbsp. dark brown sugar
-
-1/4 tsp. cinnamon
-
-dash of salt
-
-2 Tbsp. melted butter
+* 1 1/4 cup fresh bing cherries, pitted
+* 1 1/2 Tbsp. sugar
+* 1/2 Tbsp. cornstarch
+* 3/4 tsp. lemon juice
+* 1/8 tsp. vanilla extract
+* 1/4 cup rolled oats
+* 1 1/2 Tbsp. all-purpose flour
+* 1 1/2 Tbsp. whole wheat flour
+* 2 Tbsp. dark brown sugar
+* 1/4 tsp. cinnamon
+* dash of salt
+* 2 Tbsp. melted butter
 
 Heat oven to 375. Spray two ramekins with non-stick spray and set aside.
 
