@@ -7,7 +7,7 @@ categories:
 - cookies
 - icing
 image: assets/images/royal-icing.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
