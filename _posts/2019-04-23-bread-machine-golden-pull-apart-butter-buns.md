@@ -8,9 +8,9 @@ categories:
 - carbs
 - bread
 image: assets/images/butter_buns.jpg
-featured: true
+featured: false
 hidden: false
-date: 2019-04-23 23:10:52 -0400
+date: '2019-04-24T03:10:52.000+00:00'
 
 ---
 Time: 4 hours MAX; Yields 16 rolls
@@ -47,4 +47,4 @@ Place the 16 dough balls in the two pans and cover with a clean towel. Let rise 
 
 Bake for 22 to 24 minutes until golden brown on top. Remove buns from the oven and brush with melted butter. After a few minutes, remove the buns from the pan and place in a serving basket or cooling rack. Serve warm.
 
-The recipe for these Golden Pull Apart Butter Buns was originally posted on [King Arthur Flour](https://www.kingarthurflour.com/recipes/golden-pull-apart-butter-buns-recipe) and has been adapted for the Zojirushi Breadmaker. 
+The recipe for these Golden Pull Apart Butter Buns was originally posted on [King Arthur Flour](https://www.kingarthurflour.com/recipes/golden-pull-apart-butter-buns-recipe) and has been adapted for the Zojirushi Breadmaker.
