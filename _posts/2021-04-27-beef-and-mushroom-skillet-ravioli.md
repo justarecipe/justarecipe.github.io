@@ -10,7 +10,7 @@ categories:
 - ravioli
 - mozzarella
 image: assets/images/beef-mushroom-ravioli-skillet.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
