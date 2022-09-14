@@ -6,7 +6,7 @@ categories:
 - chocolate
 - drinks
 image: assets/images/hot-chocolate-mix.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
