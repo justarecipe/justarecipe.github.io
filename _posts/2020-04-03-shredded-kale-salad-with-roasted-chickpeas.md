@@ -9,7 +9,7 @@ categories:
 - garbanzo beans
 - parmesan
 image: assets/images/kale-roasted-garbanzo-beans-salad-overnight.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
