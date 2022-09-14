@@ -7,7 +7,7 @@ categories:
 - potatoes
 - iron skillet
 image: assets/images/spicy-skillet-potatoes.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
