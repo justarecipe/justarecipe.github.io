@@ -7,7 +7,7 @@ categories:
 - weeknight meal
 - chicken
 image: assets/images/easy-queso-chicken.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
