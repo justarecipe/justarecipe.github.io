@@ -8,6 +8,7 @@ categories:
 - paw paw fruit
 - eggless
 - eggfree
+- pawpaw
 image: assets/images/paw-paw-icecream.jpg
 featured: true
 hidden: false
