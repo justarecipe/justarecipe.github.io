@@ -23,7 +23,7 @@ INGREDIENTS
 * 1 tsp. minced garlic
 * 1 1/2 tsp. cumin
 * 1 tsp. chili powder
-* 1 tsp. salt
+* 1/2 tsp. salt
 * 2 large chicken breasts, cut into even-sized strips
 * 3 bell peppers (red, green, orange)
 * 1 sweet onion
