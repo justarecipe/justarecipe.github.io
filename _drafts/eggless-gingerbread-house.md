@@ -15,6 +15,8 @@ hidden: false
 ---
 Time: 4 hours total; Yields 2 small Gingerbread houses
 
+_A delicious, perfectly-spiced, eggless gingerbread dough that comes together to create sturdy Gingerbread houses -- perfect for decorating and holiday fun!_
+
 INGREDIENTS
 
 * 3 1/2 cups all-purpose flour
@@ -32,9 +34,9 @@ INGREDIENTS
 
 In a large bowl, whisk together the dry ingredients (flour, ginger, cinnamon, nutmeg, cardamom, salt). Set aside.
 
-In a standing mixer, add the butter and sugar. Beat until combined. Add the molasses and ground flaxseed/water mixture. Beat until combined. 
+In a standing mixer, add the butter and sugar. Beat until combined. Add the molasses and ground flaxseed/water mixture. Beat until combined.
 
-Slowly add the dry ingredients to the standing mixer. Mix until uniform. Remove gingerbread dough and wrap in plastic wrap. Place in the refrigerator for 30 minutes to chill. 
+Slowly add the dry ingredients to the standing mixer. Mix until uniform. Remove gingerbread dough and wrap in plastic wrap. Place in the refrigerator for 30 minutes to chill.
 
 Once dough is chilled, heat oven to 350. Lightly flour a clean, dry, flat working surface. Roll out the gingerbread dough until 1/4 inch thick. [Use the 3D-printed gingerbread cutouts linked here](https://www.printables.com/model/107290-pernikova-chaloupka-vykrajovatko) or cut our your own cardboard pieces for the house. For each gingerbread house, you will need two long walls (left and right), two short walls (the front and back), and two roof pieces. You can opt to include windows, too.
 
@@ -44,4 +46,4 @@ If you are using the 3D gingerbread house linked here, this recipe allows enough
 
 Let pieces cool for 15 minutes before attempting to decorate or assemble. Follow the directions from [Food.com](https://www.food.com/recipe/melted-sugar-glue-for-candy-houses-442917) to melt white sugar that will be the "glue" for the gingerbread house. Decorate as you please and have fun!
 
-_The recipe for this Eggless Gingerbread House was inspired by_ [_The Banana Diaries_](https://thebananadiaries.com/vegan-gingerbread-house-recipe/)_._ 
+_The recipe for this Eggless Gingerbread House was inspired by_ [_The Banana Diaries_](https://thebananadiaries.com/vegan-gingerbread-house-recipe/)_._
