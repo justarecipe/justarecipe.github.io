@@ -8,7 +8,7 @@ featured: false
 hidden: false
 
 ---
-Time: 40 minutes; Yields: approximately 4-5 waffles
+Time: 35 minutes; Yields: approximately 4-5 waffles
 
 _A quick and tasty eggless pumpkin waffle recipe that's moist, sweet and perfectly spiced for fall_ — _or any season!_
 
