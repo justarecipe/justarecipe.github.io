@@ -3,7 +3,7 @@ layout: post
 title: Eggless Pumpkin Waffles
 author: Chris
 categories: []
-image: ''
+image: assets/images/eggless-pumpkin-waffles.JPG
 featured: false
 hidden: false
 
@@ -23,7 +23,7 @@ INGREDIENTS
 * 1/2 tsp. nutmeg
 * 1 cup milk
 * 1 Tbsp. apple cider vinegar
-* 4 Tbsp. unsalted butter
+* 4 Tbsp. unsalted butter, melted
 * 1 cup pumpkin puree
 * 1 Tbsp. brown sugar
 * 1 tsp. vanilla
@@ -36,6 +36,6 @@ In a medium bowl, add the milk and apple cider vinegar. The two ingredients will
 
 Add the wet ingredients into the large bowl of dry ingredients. Fold them in until just combined, being careful not to overmix.
 
-With the waffle iron hot and ready to use, grease with a cooking spray like PAM. Pour some the batter on the waffle iron, being sure not to overfill. Let cook until steam stops pouring out or until the waffle iron beeps to indicate it's done. Carefully remove once golden brown and eat immediately! Repeat with the remaining batter.
+With the waffle iron hot and ready to use, grease with a cooking spray like PAM. Pour some the batter on the waffle iron, being sure not to overfill. Let cook until steam stops pouring out or until the waffle iron beeps to indicate it's done. Carefully remove the golden brown waffles and eat immediately! Repeat with the remaining batter.
 
 _Notes: This recipe uses a Cuisinart Belgian Waffle Maker. This recipe was inspired by_ [_Mommy's Home Cooking_](https://mommyshomecooking.com/egg-free-pumpkin-waffles-with-salted-caramel-sauce/)_._ 
