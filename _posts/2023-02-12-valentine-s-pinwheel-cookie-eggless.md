@@ -27,7 +27,7 @@ INGREDIENTS
 
 Add flour and baking powder to a medium bowl. Set aside.
 
-In a standing mixer, beat together the butter, sugar, cream cheese and salt at medium-high speed. Beat until pale and fluffy. Add vanilla and beat until incorporated. 
+In a standing mixer, beat together the butter, sugar, cream cheese and salt at medium-high speed. Beat until pale and fluffy. Add vanilla and beat until incorporated.
 
 Reduce speed to low. Slowly add in the flour mixture in three separate batches, allowing time for the flour to incorporate before adding more.  Once incorporated, place dough on a clean, flat surface. Divide into three equal parts.
 
@@ -35,4 +35,4 @@ Shape one third of the dough into a disc. Tightly wrap in plastic wrap and place
 
 Remove the dough from the fridge. Prep a clean, flat surface that's lightly floured. Selecting one dough color at a time, roll out the disk to be 4 inches by 6 inches. Stack the three doughs on top of each other. Begin rolling the dough to create a rectangle of 13 x 10 inches. Starting from the long side, roll the stacked dough to create a pinwheel log. Tightly cover with plastic wrap and place on a pan and into the refrigerator for 2 hours.
 
-Heat the oven to 350. Line a baking sheet with parchment paper. Remove the dough log from the fridge and place on a
+Heat the oven to 350. Line a baking sheet with parchment paper. Remove the dough log from the fridge and place on a clean, flat surface. Carefully slice the log into 
